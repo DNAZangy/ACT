@@ -1,0 +1,4670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ACT</name>
+      <longname>The Stage Presents: The Neverending Act</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Seraph of the Stage</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cycle Seraph of the Stage or it attacks, audition for white. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)
+Basic landcycling 1W (1W, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Grand Historian</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever the final chapter ability of a Saga you control resolves, you may return a non-Saga card at random from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Mourning Lady Faye</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Grasp of the Stageless</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>10GG</manacost>
+        <cmc>12</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each counter on permanents you control.
+Trample
+GG, Remove ten counters from among permanents you control, and exile Grasp of the Stageless from your graveyard: Create a token that’s a copy of Grasp of the Stageless. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Prop Custodian</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Prop Custodian becomes the target of a spell or becomes enchanted for the first time each turn, audition for white. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Off-Set Rumormonger</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, note its colors.
+At the beginning of combat on your turn, up to X target creatures get +2/+0 and gain menace until end of turn, where X is the number of colors noted with Off-Set Rumormonger.</text>
+    </card>
+    <card>
+      <name>Steal the Show</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 3/3 black Demon Horror creature token.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Skyward Dreamers</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your upkeep, sacrifice Skyward Dreamers unless you remove a counter from a permanent you control.</text>
+    </card>
+    <card>
+      <name>Encouraging Bulwark</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Encouraging Bulwark attacks, you may put a +1/+1 counter on each creature you control that has counters on it or is enchanted.</text>
+    </card>
+    <card>
+      <name>Wayward Bloodseeker</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wayward Bloodseeker enters the battlefield, put a +1/+1 counter on up to one target creature you control. When you do, Wayward Bloodseeker deals damage to any target equal to the number of permanents you control with counters on them.</text>
+    </card>
+    <card>
+      <name>Xiyue Firelighters</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more creatures you control deal combat damage to a player or planeswalker, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Minnows Accomplice</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U, Remove a counter from a permanent you control: Choose one. Activate only as a sorcery.
+• If a lore counter was removed this way, put a +1/+1 counter on Minnow’s Accomplice.
+• If a +1/+1 counter was removed this way, draw a card.</text>
+    </card>
+    <card>
+      <name>Timeless Rehearsal</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Strikebreaker</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Strikebreaker enter the battlefield as a copy of a non-Aura enchantment you control, except it’s a 2/2 Construct Actor creature in addition to its types.</text>
+    </card>
+    <card>
+      <name>Dreadful Gorgon</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Gorgon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever Dreadful Gorgon attacks, target attacking creature with lesser power gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Verdant Curtain Mascot</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Boar </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Verdant Curtain Mascot enters the battlefield, choose one —
+• You gain 2 life.
+• Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Banished Prophet</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Banished Prophet enters the battlefield, you may remove a counter from a permanent you control. If you do, put a +1/+1 counter on another target creature you control.</text>
+    </card>
+    <card>
+      <name>Unraveller of Mysteries</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Unraveller of Mysteries enters the battlefield, mill two cards.</text>
+    </card>
+    <card>
+      <name>Dramatic Understudy</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+At the beginning of combat on your turn, if a permanent you control left the battlefield this turn, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Prop Work</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, audition for green. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Warrior Role giving 3/2 and trample. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Jerrolds Descent</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Audition for green, then audition for green. (To audition for green, create a 1/1 Construct Actor creature token or a green Role Aura token on a creature you control, which can be 2/3 Scout with vigilance or a 3/2 Warrior with trample.)</text>
+    </card>
+    <card>
+      <name>Tailor of Terror</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spider Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Tailor of Terror attacks, you may exile a creature card from your graveyard. If you do, put a +1/+1 counter on Tailor of Terror.</text>
+    </card>
+    <card>
+      <name>Ivory Curtain Producer</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ivory Curtain Producer attacks, if you cast a spell that targeted it this turn or if it’s enchanted, create a 1/1 colorless Construct Actor creature token.</text>
+    </card>
+    <card>
+      <name>Lovely Duet</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to two target creature can’t block this turn.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>In the Nick of Time</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 until end of turn. If it’s enchanted, it gains lifelink and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Apprehensive Slinger</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Apprehensive ‘Slinger deals combat damage to a player or planeswalker, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Cordial Ticketmaster</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Cordial Ticketmaster enters the battlefield, put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Valiant Instructor</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Valiant Instructor enters the battlefield, you return up to one target enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Astute Sceneweaver</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Astute Sceneweaver enters the battlefield, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Lead Athlete</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you cast a spell that targets Lead Athlete or it becomes enchanted by a Role, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>The Monsters Attack</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+0 until end of turn. Creatures you control with counters on them gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Verdant Curtain Naturalist</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Verdant Curtain Naturalist enters the battlefield, you gain 3 life.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Crocheted Buddy</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Construct Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Crocheted Buddy attacks, if you cast a spell that targeted it this turn or if it’s enchanted, create a colorless 1/1 Construct Actor creature token.</text>
+    </card>
+    <card>
+      <name>Shattered Reflection</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard a card, then draw a card.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Bedrock of Tales</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{2}, {T}: Put a lore counter on a Saga you control.</text>
+    </card>
+    <card>
+      <name>Castigate</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a nonland card from it and exile that card.</text>
+    </card>
+    <card>
+      <name>Salvage the Stitchings</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You draw two cards and you lose 2 life. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>On the Case</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)
+Scry 2, then draw a card.</text>
+    </card>
+    <card>
+      <name>Exuberant Snowmage</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2W/U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Wizard Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Tap target creature. This ability costs {2} less to activate if you control an enchantment.</text>
+    </card>
+    <card>
+      <name>Brooding Replacement</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever you cast your second spell each turn, put a +1/+1 counter on Brooding Replacement.</text>
+    </card>
+    <card>
+      <name>Scathing Critics</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2B/R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Scathing Critics deals combat damage to a player or planeswalker, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Crescent Crasher</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2R/G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Crescent Crasher attacks, put a +1/+1 counter on target attacking creature with lesser power.</text>
+    </card>
+    <card>
+      <name>Overconfident Batter</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1G/W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Overconfident Batter dies, if you cast a spell that targeted it this turn or if it’s enchanted, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Backstage Broken</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2W/B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Backstage Broken enters the battlefield, create a 1/1 colorless Actor creature token.
+Whenever a token you control leaves the battlefield, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Thespians Page</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3U/R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Thespian’s Page enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Young Soulspeaker</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Pay 1 life: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Performers of Purpose</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1R/W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Performers of Purpose has first strike.
+When Performers of Purpose enters the battlefield, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Actor creature token.</text>
+    </card>
+    <card>
+      <name>Marionette Phantom</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4G/U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Marionette Phantom enters the battlefield, choose one —
+• Draw a card.
+• Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Bigroot Valley</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Bigroot Valley enters the battlefield tapped.
+{T}: Add {R} or {G}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Erupting Territory</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Erupting Territory enters the battlefield tapped.
+{T}: Add {B} or {R}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Gloomtide Gulf</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Gloomtide Gulf enters the battlefield tapped.
+{T}: Add {U} or {B}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Sculpted Observatory</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Sculpted Observatory enters the battlefield tapped.
+{T}: Add {W} or {U}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Peaceful Passage</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Peaceful Passage enters the battlefield tapped.
+{T}: Add {G} or {W}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Caustic Mangrove</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Caustic Mangrove enters the battlefield tapped.
+{T}: Add {B} or {G}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Hazy Summits</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Hazy Summits enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Somber Meadow</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Somber Meadow enters the battlefield tapped.
+{T}: Add {W} or {B}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Twisting Fissure</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Twisting Fissure enters the battlefield tapped.
+{T}: Add {U} or {R}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Lush Coast</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Lush Coast enters the battlefield tapped.
+{T}: Add {G} or {U}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Frostpoint Caldera</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Frostpoint Caldera enters the battlefield tapped unless you control a basic land.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Boneyard Pass</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Boneyard Pass enters the battlefield tapped unless you control a basic land.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Autumnal Boscage</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Autumnal Boscage enters the battlefield tapped unless you control a basic land.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Thawing Valley</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Thawing Valley enters the battlefield tapped unless you control a basic land.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Molten Mire</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Molten Mire enters the battlefield tapped unless you control a basic land.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Waterfront Market</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Waterfront Market enters the battlefield tapped unless you control a basic land.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Spinerock Canyon</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spinerock Canyon enters the battlefield tapped unless you control a basic land.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Whispering Canal</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Whispering Canal enters the battlefield tapped unless you control a basic land.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Basin Fortress</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Basin Fortress enters the battlefield tapped unless you control a basic land.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>The Malevolence Chronicles</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Return target creature card from your graveyard to your hand.
+II — Return target instant or sorcery card from your graveyard to your hand.
+III — At the beginning of the next end step, create an X/X black Horror creature token, where X is the number of spells you cast this turn.</text>
+    </card>
+    <card>
+      <name>Into Autumns Arms</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Put a +1/+1 counter on target creature you control.
+Double the number of counters on target creature you control.
+​</text>
+    </card>
+    <card>
+      <name>Traveling Ticketmaster</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Scout </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once during each of your turns, you may cast an instant, sorcery, or enchantment spell from your graveyard as long as it targets a creature you control.</text>
+    </card>
+    <card>
+      <name>Closing-Act Abomination</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+You may spend black and green mana as though it were mana of any color.
+Whenever Closing-Act Abomination attacks, look at the top X cards of your library, where X is the number of colors of cards in your graveyard. Put up to one of them into your hand and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Rambunctious Afterparty</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a party counter on Rambunctious Afterparty. Then Rambunctious Afterparty deals damage to each opponent equal to the number of party counters on Rambunctious Afterparty.</text>
+    </card>
+    <card>
+      <name>Hollow Queen</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hollow Queen can’t be blocked by tokens.
+Whenever Hollow Queen deals combat damage to a player or planeswalker, you may remove a counter from a permanent you control. If you do, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Waltz on a Nimbus</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Exile target nonland permanent you don’t control until Waltz on a Nimbus leaves the battlefield.
+Create a 1/1 white Soldier creature token with “This creature gets +1/+1 for each enchantment you control.”
+Search your library for a non-Saga enchantment card and reveal it. You may cast that card. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Strawhood Harvested</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Scarecrow Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters the battlefield under your control, put your choice of a +1/+1 counter, a trample counter, or a haste counter on it.</text>
+    </card>
+    <card>
+      <name>A Memorial to Radiance</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Create a token that’s a copy of up to one target Aura you control and attach it to up to one target creature you control.
+Put a +1/+1 counter on each enchanted creature you control. Those creatures gain indestructible and vigilance until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>An Accursed Coronation</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create four 1/1 colorless Construct Actor creature tokens.
+II — Each player sacrifices a nontoken creature.
+III — Each player loses 3 life.</text>
+    </card>
+    <card>
+      <name>The Playwrights Gambit</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Put a prowess counter on target creature you control. That creature deals 2 damage to each opponent.
+II — Scry 3.
+III — Until end of turn, if you casting an instant or sorcery spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>Tales from the Fallen Court</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+For each color, return up to one target creature card of that color from your graveyard to your hand.
+​</text>
+    </card>
+    <card>
+      <name>The Rejection of the Fair Prince</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create two 1/1 colorless Construct Actor creature tokens.
+II — Creatures you control gain first strike until end of turn.
+III — Creatures you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>The Tragedy of Fruits and Fanfare</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Distribute a trample counter, a vigilance counter and a +1/+1 counter among creatures you control.
+You may redistribute counters among other permanents you control.
+​</text>
+    </card>
+    <card>
+      <name>Price of Performance</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Sacrifice a creature: Each opponent loses 1 life.
+Whenever a creature dies, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Abominable Auteur</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Skeleton Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Abominable Auteur attacks, you may return target creature card with mana value 3 or less from your graveyard to the battlefield. If its mana value was 1 or less, it enters tapped and attacking.</text>
+    </card>
+    <card>
+      <name>Leads Dont Die</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>BGU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Leads Don’t Die enters the battlefield, mill four cards and you gain 4 life.
+At the beginning of your upkeep, you may exile X cards from your graveyard and sacrifice Leads Don’t Die. When you do, return target creature card with mana value X or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Perfect the Models</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>BRG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Perfect the Models deals 3 damage to any target and you gain 3 life. You may play an additional land this turn.
+5BRG, Exile Perfect the Models from your graveyard: Create three 3/3 black Demon Horror creature tokens. They gain haste and indestructible until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Main Role Maiden</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>GUR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell with mana value 4 or greater, create a Treasure token. If that spell’s mana value is 6 or greater, draw a card. If that spell’s mana value is 8 or greater, Main Role Maiden deals 4 damage to each creature and planeswalker you don’t control.</text>
+    </card>
+    <card>
+      <name>Lapinized Caster</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Rabbit Horror Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, choose one —
+• Create a tapped Treasure token.
+• Each opponent loses 2 life and you gain 2 life.
+• Create a 1/1 colorless Construct Actor creature token.</text>
+    </card>
+    <card>
+      <name>Dulled Ghost</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>2WUB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Dulled Ghost can’t be blocked by creatures with less power than toughness.
+At the beginning of your end step, exile up to one target nonland permanent you control, then return it to the battlefield under its owner’s control. If that permanent was tapped, each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Percys Proclaimer</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Green creatures you control have “{T}: Add one mana of any color.”
+Red creatures you control have “{1}, {T}: This creature deals 1 damage to target player.”
+White creatures you control have “{2}, {T}: Tap target nonland permanent.”</text>
+    </card>
+    <card>
+      <name>Mindscape Ripper</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment enters the battlefield under your control, choose one that hasn’t been chosen this turn.
+• Draw a card.
+• Put two +1/+1 counters on target creature you control.</text>
+    </card>
+    <card>
+      <name>Brutal Director</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>2URW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you draw your second card each turn, you may reveal it. If you do and it’s a nonland card, you may cast a copy of it. If you don’t cast a copy of the card, Brutal Director deals 2 damage to any target. (You still pay the costs of the copied card.)</text>
+    </card>
+    <card>
+      <name>Ivory Curtain Litigator</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If an enchanted permanent you control would leave the battlefield, instead destroy one of the Auras attached to it, then that permanent phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+    </card>
+    <card>
+      <name>Swan Dance</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Create two 1/1 colorless Construct Actor creature tokens. 
+Creatures you control gain flying until end of turn. Whenever one or more of them deals combat damage to a player this turn, draw a card.
+​</text>
+    </card>
+    <card>
+      <name>A Princess Plea</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>1WBG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+You may exile target nonland permanent. If you do, you lose 3 life.
+Create a 7/7 white, black, and green Horror Knight creature token with trample and “Whenever this creature is dealt damage, you lose that much life.”
+​</text>
+    </card>
+    <card>
+      <name>A Bond that Spans Planes</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Return up to X target creature cards with mana value 3 or less from your graveyard to the battlefield, where X is the number of lore counters on A Bond that Spans Planes.
+​
+​</text>
+    </card>
+    <card>
+      <name>A Recipe for Disaster</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>1BGU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Mill four cards. 
+Return target land card from your graveyard to the battlefield.
+Return target creature or non-Saga enchantment card from your graveyard to the battlefield.
+You may cast target instant or sorcery card from your graveyard without paying it mana cost</text>
+    </card>
+    <card>
+      <name>Around the Plane in Three Days</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>3BRG</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Exile each player’s graveyard. Create a token that’s a copy of a creature card exiled this way.
+Create a token that’s a copy of an artifact or enchantment card exiled with Around the Plane in Three Days.
+Create a token that’s a copy of a land or planeswalker card exiled with Around the Plane in Three Days.</text>
+    </card>
+    <card>
+      <name>Over the Moon</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>GUR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Over the Moon deals 4 damage to up to one target creature or planeswalker.
+Spells you cast with mana value 4 or greater cost {1} less to cast this turn and can’t be countered.
+​</text>
+    </card>
+    <card>
+      <name>Magellas First Step</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>1WUB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Exile up to one target creature you control. At the beginning of your next end step, return it to the battlefield.
+Until end of turn, if a creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+​</text>
+    </card>
+    <card>
+      <name>A Song of Sleet and Hellfire</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I, II — Create a token that’s a copy of target Construct you control.
+III — Constructs you control get +2/+0 and gain vigilance until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Scaled Outburst</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature. That creature gains first strike until end of turn.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Arrive, Surrounded by Petals</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+When Arrive, Surrounded by Petals enters the battlefield, audition for green. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Warrior Role giving 3/2 and trample. Roles replace older ones.)
+Enchanted land has “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Leading Clergy</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Leading Clergy attacks, you may pay {W}. If you do, audition for white. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Backstage Prompter</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever Backstage Prompter deals combat damage to a player, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>The Unhinging Project</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Whenever you cast a spell from anywhere other than your hand, remove a lore counter from The Unhinging Project.
+The Unhinging Project deals 2 damage to any target. You gain 2 life.
+Discard your hand. Surveil 3.</text>
+    </card>
+    <card>
+      <name>ACT Evolving Wilds</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Prophetic Prism</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Prophetic Prism enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Collapsing Frame</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Collapsing Frame enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}, Sacrifice Collapsing Frame: Draw a card.</text>
+    </card>
+    <card>
+      <name>The Grand Plot</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost>X2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Grand Plot enters the battlefield, search your library for up to three Saga cards with different names with mana value X or less, exile them, then shuffle.
+The Grand Plot has all chapter abilities of cards exiled with it.
+At the beginning of your upkeep, you may put a lore counter on The Grand Plot. When you do, you may sacrifice it. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Recoil in Fear</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand. Then that player discards a card.</text>
+    </card>
+    <card>
+      <name>Retire</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Rip Apart</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Rip Apart deals 3 damage to target creature or planeswalker.
+• Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Assemble the Heroes</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three 1/1 colorless Construct Actor creature tokens.</text>
+    </card>
+    <card>
+      <name>Take Back the Stage</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+1 and gains lifelink until end of turn. It fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Opulent Reprise</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards.</text>
+    </card>
+    <card>
+      <name>Critical Acclaim</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 2 life and draw two cards.</text>
+    </card>
+    <card>
+      <name>Percy, Master of Puppets</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Perceval </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Protection from tokens
+[+1]: Each player may draw a card. For each opponent that does, you gain 1 life and create a 1/1 colorless Construct Actor creature token.
+[-2]: Each player sacrifices a creature. Create a token that’s a copy of a creature sacrificed this way.
+[-7]: Until end of turn, each creature you control becomes a 6/6 black Horror creature with trample, menace, and lifelink.
+</text>
+    </card>
+    <card>
+      <name>Paul, Rock Bottom</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Planeswalker - Paul </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Paul, Rock Bottom dies, if they didn’t enter the battlefield this turn, you may discard a card. If you do, return them to the battlefield with one loyalty counter.
+[+1]: Draw a card, then discard a card.
+[0]: Until end of turn, Paul becomes a 2/2 Construct creature with prowess. Prevent all damage that would be dealt to them this turn.
+[-2]: Return target instant or sorcery card from your graveyard to your hand.
+</text>
+    </card>
+    <card>
+      <name>Cacophonous Demon</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Cacophonous Demon deals combat damage to a player or planeswalker, you may exile target artifact or enchantment.
+Whenever a creature deals damage to you, tap that creature. It becomes an enchantment in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Host of the Celebration</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, any number of target creatures you control get +1/+1 until end of turn.
+Whenever a creature you control deals combat damage equal to that creature’s mana value to a player or planeswalker,  draw a card.</text>
+    </card>
+    <card>
+      <name>Jerrold, Fugitive</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>BRG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Construct Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever a nontoken creature enters the battlefield under your control, you may cast target instant or sorcery spell in your graveyard with lesser mana value. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.</text>
+    </card>
+    <card>
+      <name>Marva of Endless Inspiration</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>1GUR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Construct God </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+Marva of Endless Inspiration can’t attack or block unless you’ve cast a spell with mana value 4 or greater this turn.
+At the beginning of your end step, return a card at random from your graveyard to your hand. If it’s a land card, return it to the battlefield instead.</text>
+    </card>
+    <card>
+      <name>Performer King</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Prevent all damage that would be dealt to creatures you control by sources with greater mana value.
+2WW: Create a 1/1 colorless Construct Actor creature token. Put a vigilance counter on it.</text>
+    </card>
+    <card>
+      <name>Prop Recycling</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>2BGU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature dies, you may exile that card. If you do, return each other card exiled with Prop Recycling to its owner’s graveyard.
+At the beginning of combat on your turn, create a token that’s a copy of a card exiled with Prop Recycling.</text>
+    </card>
+    <card>
+      <name>Reflective Stalker</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Reflection Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Reflective Stalker enters the battlefield, choose a noncreature card name.
+When Reflective Stalker enters the battlefield, if it was cast, create a token that’s a copy of it.
+Spells your opponents cast with the chosen name cost {2} more to cast.</text>
+    </card>
+    <card>
+      <name>Remake the Cast</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get -3/-3.
+Whenever a creature you control dies, put a soul counter on Remake the Cast.
+Creatures you control get +1/+1 for each soul counter on Remake the Cast.</text>
+    </card>
+    <card>
+      <name>Soulwrought Songster</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess, trample
+During your turn, each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card’s mana cost plus pay life equal to that card’s mana value.</text>
+    </card>
+    <card>
+      <name>Douglass, Star of the Show</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Construct Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, trample
+Enchantment spells you cast cost {1} less to cast.
+Whenever you put a lore counter on a Saga you control, Douglass, Star of the Show gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Jeffery, Stage Manager</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Construct Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, when Jeffery enters the battlefield or you create an Aura token, you may create Lead Role attached to target creature you control, an Aura token that’s all colors with “Enchanted creature is a 5/5 creature with all creature types and flying, trample, lifelink, prowess, and vigilance.”
+Whenever an enchanted creature you control attacks, draw a card.</text>
+    </card>
+    <card>
+      <name>Hope Spot</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Audition for white. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Powerful Distraction</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to three target creatures.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Runaway Princess</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Runaway Princess dies, audition for white. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Second-Stage Actress</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Second-Stage Actress has first strike.
+When Second-Stage Actress enters the battlefield, audition for white. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Conflict Capturer</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Conflict Capturer gets +2/+0 as long as a permanent you control left the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Engrossed in the Tale</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {2} less to cast as long as you control a Saga.
+When Engrossed in the Tale enters the battlefield, exile target creature an opponent controls until Engrossed in the Tale leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Expendable Victim</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Expendable Victim dies, create a 1/1 colorless Actor creature token.</text>
+    </card>
+    <card>
+      <name>Mourners of Mervin</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Construct Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mourners of Mervin enters the battlefield, you may sacrifice a creature or enchantment. If you do, creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Spoiled Prince</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Spoiled Prince enters the battlefield, each player sacrifices a creature with the greatest power among creatures they control.</text>
+    </card>
+    <card>
+      <name>Unwrite</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Unwrite deals 3 damage to target attacking or blocking creature.
+• Destroy target artifact.
+• Destroy target enchantment.</text>
+    </card>
+    <card>
+      <name>Revitalize</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 3 life.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Percys Messenger</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Percy’s Messenger enters the battlefield, you gain 2 life. You may put a lore counter on a Saga you control.</text>
+    </card>
+    <card>
+      <name>Tuesdays First Victim</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+When Tuesday’s First Victim dies, audition for blue. (Create a 1/1 Construct Actor creature token or a blue Role Aura on a creature you control. The blue Roles are a 2/2 Wizard with prowess and a 2/1 Warlock with flying.)</text>
+    </card>
+    <card>
+      <name>Crafty Escape</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to two target permanents you control, then return those cards to the battlefield under their owner’s control.
+Audition for blue. (Create a 1/1 Construct Actor creature token or a blue Role Aura on a creature you control. The blue Roles are a 2/2 Wizard with prowess and a 2/1 Warlock with flying.)</text>
+    </card>
+    <card>
+      <name>Intellectual Critic</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, scry 2.</text>
+    </card>
+    <card>
+      <name>Newswright</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, audition for blue. (Create a 1/1 Construct Actor creature token or a blue Role Aura on a creature you control. The blue Roles are a 2/2 Wizard with prowess and a 2/1 Warlock with flying.)</text>
+    </card>
+    <card>
+      <name>Inspect the Plot</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Tire Out</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {2} less to cast if you’ve cast another spell this turn.
+Enchant creature
+When Tire Out enters the battlefield, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Cerulean Curtain Treasurer</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Cerulean Curtain Treasurer enters the battlefield, audition for blue, then audition for blue again. (To audition for blue, create a 1/1 Construct Actor creature token or a blue Role Aura on a creature you control. The blue Roles are a 2/2 Wizard with prowess and a 2/1 Warlock with flying.)</text>
+    </card>
+    <card>
+      <name>Performer of Winds</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Performer of Winds can’t be blocked.
+When Performer of Winds enters the battlefield, remove a counter from up to one target permanent you control.</text>
+    </card>
+    <card>
+      <name>From Curtains to Chills</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to one target nonland permanent and put a stun counter on it.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>The Lead Falls Short</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. You may put a lore counter on a Saga you control.</text>
+    </card>
+    <card>
+      <name>Fade Out</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature you control gets +0/+2 and gains hexproof until end of turn.
+• Return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Dealer of Pointed Fortunes</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Dealer of Pointed Fortunes enters the battlefield, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Uncover Malevolence</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature can’t be blocked this turn.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Conclude</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -1/-1 until end of turn. Audition for black. (Create a 1/1 Construct Actor creature token, a Cleric Role giving 2/2 and lifelink, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Dastardly Duo</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Construct Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast if an opponent was dealt combat damage this turn.
+When Dastardly Duo enters the battlefield, audition for black. (Create a 1/1 Construct Actor creature token, a Cleric Role giving 2/2 and lifelink, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Inciting Incident</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent loses 1 life and you gain 1 life. Surveil 2.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Silent Sleep</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Imposing Threat</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 2/2 black Horror creature token.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Seeker of Salome</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Black Curtain Extra</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+{B}, Pay 1 life: Add one mana of any color. Activate this ability only once each turn.</text>
+    </card>
+    <card>
+      <name>Monstrous Revelation</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a token or pay 2 life.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Hope Wrangler</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Hope Wrangler attacks, target attacking creature with lesser power gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Lost in the Role</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if you’ve cast another spell this turn.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Fatal Method Acting</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker with mana value 2 or less. Create a tapped Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Bring the Spotlight</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+0 until end of turn. Mill three cards.</text>
+    </card>
+    <card>
+      <name>Black Curtain Enforcer</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Black Curtain Enforcer enters the battlefield, you may return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Stitched-Smile Seamstress</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain life, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Festival Sabotage</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Festival Sabotage deals 1 damage to any target. 
+Audition for red. (Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Backdrop Artisan</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Backdrop Artisan dies, audition for red.  (Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Swiftwheel Slayers</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Construct Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Swiftwheel Slayers enters the battlefield, audition for red. (Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)
+Token creatures you control have haste.</text>
+    </card>
+    <card>
+      <name>Go Out Guns Blazing</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Go Out Guns Blazing deals 2 damage to target player or planeswalker.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Raging Restitched</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Raging Restitched enters the battlefield, you may sacrifice a creature. When you do, Raging Restitched deals damage to target creature or planeswalker equal to the sacrificed creature’s power.</text>
+    </card>
+    <card>
+      <name>Shining Showstopper</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shining Showstopper deals 5 damage to any target. Audition for red. (Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Arms Tinkerer</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+When Arms Tinkerer enters the battlefield, choose one —
+• Destroy target artifact.
+• Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Lantern-Bearer Belle</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lantern-Bearer Belle gets +2/+0 and has flying as long as you’ve sacrificed a permanent this turn.</text>
+    </card>
+    <card>
+      <name>Mervins Armor</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+1.
+Whenever a creature you control deals combat damage to a player or planeswalker, you may attach Mervin’s Armor to it.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Strength of Character</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Audition for green. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Warrior Role giving 3/2 and trample. Roles replace older ones.)
+• Target creature you control fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Make a Plan</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a basic land type. Create a tapped colorless land token that’s the chosen type.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Time Stands Still, Heroes Emerge</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +4/+4 until end of turn.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Wild Entourage</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wild Entourage enters the battlefield, create two 1/1 colorless Actor creature tokens.
+4G: Wild Entourage gets +2/+2 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Hedge Dashers</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Hedge Dashers attacks, if you control a permanent with a counter on it, Hedge Dashers gets +1/+1 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Look Beyond the Stage</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Blooming Reclamation</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. If that permanent was a token, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Wooded Ward</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature you control. It gets +1/+4 and gains hexproof and reach until end of turn.</text>
+    </card>
+    <card>
+      <name>A Delightful Afternoon</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Audition for white. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)
+Distribute two +1/+1 counters among creatures you control.
+​</text>
+    </card>
+    <card>
+      <name>A Tale of the Boastful Sailor</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Audition for blue. (Create a 1/1 Construct Actor creature token or a blue Role Aura on a creature you control. The blue Roles are a 2/2 Wizard with prowess and a 2/1 Warlock with flying.)
+Whenever a creature you control deals combat damage to a player this turn, draw a card.
+​</text>
+    </card>
+    <card>
+      <name>That Fateful Tuesday</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Audition for black. (Create a 1/1 Construct Actor creature token, a Cleric Role giving 2/2 and lifelink, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)
+Until end of turn, if a creature you don’t control would die, instead exile it and that creature’s controller loses 2 life.
+​</text>
+    </card>
+    <card>
+      <name>An Invitation to High Rollers</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Audition for red. (Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)
+Whenever a creature you control deals damage to an opponent this turn, exile the top card of your library. You may play it this turn.
+​</text>
+    </card>
+    <card>
+      <name>The Investigation of Dr Vaughn</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Audition for green. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Warrior Role giving 3/2 and trample. Roles replace older ones.)
+Creatures you control get +1/+0 and gain trample until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>The Death of King Mervin</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Destroy target creature you don’t control with the greatest power.
+II — Until your next turn, prevent all damage that would be dealt to you and planeswalkers you control.
+III — Exile target card from a graveyard. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>The Girl Who Wouldnt Die</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+II — Each opponent loses 2 life and you gain 2 life.
+III — Return target creature card with mana value 2 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>As the Lanterns Float On</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Sacrifice a permanent, then As the Lanterns Float On deals 3 damage to any target.
+II — Sacrifice a permanent, then draw a card.
+III — Create a token that’s a copy of target permanent card in your graveyard with mana value 4 or less. It gains haste. Sacrifice it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>The Disappearance of Faye</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Create a 1/1 colorless Construct Actor token.
+II — Create a Food token and a Weapon token. (A Weapon token is an Equipment with equip {2} and “Equipped creature gets +1/+1.”)
+III — You may draw a card. If you don’t and you control five or more tokens, you may exile The Disappearance and return a card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Blood on Satin</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Each opponent discards a card and loses 2 life.
+II — Exile target card from a graveyard. If a creature card was exiled this way, you gain 2 life.
+III — At the beginning of the next end step, you gain 3 life if an opponent lost life this turn and each opponent loses 3 life if you’ve gained life this turn.</text>
+    </card>
+    <card>
+      <name>Push to the Background</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature spell. Audition for blue. (Create a 1/1 Construct Actor creature token or a blue Role Aura on a creature you control. The blue Roles are a 2/2 Wizard with prowess and a 2/1 Warlock with flying.)</text>
+    </card>
+    <card>
+      <name>Once More with Heart</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield. You gain X life, where X is 3 minus that creature’s mana value. </text>
+    </card>
+    <card>
+      <name>Sealed Evil in a Cage</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Sealed Evil in a Cage enters the battlefield, exile target creature an opponent controls with mana value 3 or greater an opponent controls until Sealed Evil in a Cage leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Holding Out for a Hero</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If you have less life than an opponent, you gain 2 life. If you control fewer creatures than an opponent, create a 1/1 colorless Construct Actor creature token.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Royal Doctor</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a permanent you control leaves the battlefield, put a +1/+1 counter on Royal Doctor.
+When Royal Doctor leaves the battlefield, you gain life equal to its power.</text>
+    </card>
+    <card>
+      <name>Radiant Lead</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment enters the battlefield under your control, create a colorless 1/1 Construct Actor creature token.
+Token creatures you control have vigilance.</text>
+    </card>
+    <card>
+      <name>Silent Credits</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain hexproof until end of turn.
+Prevent all damage that would be dealt to you this turn.</text>
+    </card>
+    <card>
+      <name>Paul, Startin Out Small</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever Paul attacks, look at the top card of your library. If it’s a noncreature card, you may cast it. If you don’t cast the card, you may put it into your graveyard.</text>
+    </card>
+    <card>
+      <name>Distracted at Sea</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast your second spell each turn, you may tap target creature and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Dig for Evidence</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target instant or sorcery card from your graveyard to your hand.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Crucify</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may pay {B} and 4 life rather than pay this spell’s mana cost.
+Target creature gets -5/-5 until end of turn.</text>
+    </card>
+    <card>
+      <name>Repurpose Debris</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. It’s a 1/1 Construct in addition to its other types.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Salomes Messenger</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <cipt>1</cipt>
+      <text>Salome’s Messenger enters the battlefield tapped.
+Whenever you cast your second spell each turn, you may return Salome’s Messenger from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Backstage Comic</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Backstage Comic enters the battlefield, target player discards a card.</text>
+    </card>
+    <card>
+      <name>Detectives Gambit</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures you control deal combat damage to a player or planeswalker, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Extolled Arachstruct</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spider Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Extolled Arachstruct enters the battlefield, mill two cards. When you do, choose one —
+• Each opponent sacrifices a creature with power less than the number of cards in your graveyard.
+• Each opponent sacrifices a creature with power greater than the number of cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Audacious Spectator</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice a creature or enchantment: Exile the top card of your library. You may play that card this turn.</text>
+    </card>
+    <card>
+      <name>High Rollers Croupier</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever High Rollers Croupier attacks, you may put a lore counter on a Saga you control.</text>
+    </card>
+    <card>
+      <name>Second-Day Slayings</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a permanent you control leaves the battlefield, Second-Day Slayings deals 1 damage to each opponent. </text>
+    </card>
+    <card>
+      <name>Scene to Cinders</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Scene to Cinders deals 2 damage to each token creature.
+• Scene to Cinders deals 2 damage to each nontoken creature.</text>
+    </card>
+    <card>
+      <name>Apprehend the Nemesis</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature or planeswalker you don’t control.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Sower of Virulent Thoughts</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Plant Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Sower of Virulent Thoughts attacks, you may return a creature you control to its owner’s hand. If you do, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Vaughns Vows</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top five cards of your library. Put up to one land card revealed this way onto the battlefield tapped and a creature card revealed this way into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Method Actor Retiree</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of color.
+3G, {T}: Audition for green. Activate only as a sorcery. (Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Warrior Role giving 3/2 and trample. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Enthusiastic Admirer</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell that targets a creature you control or becomes enchanted by a Role, put a +1/+1 counter on Enthusiastic Admirer.</text>
+    </card>
+    <card>
+      <name>Ravenous Extra</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The second spell you cast each turn costs {2} less to cast.
+Whenever you cast a spell, each opponent loses 1 life and you gain 1 life. </text>
+    </card>
+    <card>
+      <name>Prod the Stitchwork</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Prod the Stitchwork enters the battlefield, it deals 1 damage to target player. That player sacrifices a creature.
+At the beginning of your end step, if an opponent took damage from three or more sources this turn, exile the top card of your library. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Directors Perks</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Other enchantments you control have hexproof.
+At the beginning of your upkeep, you gain 1 life and exile up to one target card from a graveyard</text>
+    </card>
+    <card>
+      <name>Zealous Persecution</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.</text>
+    </card>
+    <card>
+      <name>Theatric Tandem</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever you cast a noncreature spell, audition for red or for blue. (To audition for red or blue, create a 1/1 Construct Actor creature token or a red or blue Role Aura on a creature you control. The red and blue roles are 3/2 Warrior with trample, a 2/2 Wizard with prowess or a 2/1 Warlock with flying.)</text>
+    </card>
+    <card>
+      <name>Percys Perfect World</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Percy’s Perfect World enters the battlefield, search your library for a legendary white card, reveal it, put it into your hand, then shuffle.
+If an effect would create one or more creature tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Jeffery Stages the Finale</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Jeffery Stages the Finale enters the battlefield, search your library for a legendary blue card, reveal it, put it into your hand, then shuffle.
+Whenever you cast a spell with mana value 5 or greater, return up to one target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Salome Breaks the Lies</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Salome Breaks the Lies enters the battlefield, search your library for a legendary black card, reveal it, put it into your hand, then shuffle.
+Whenever you cast your second spell each turn, target opponent discards a card. If they can’t or it isn’t your turn, instead they lose 2 life and you draw a card.</text>
+    </card>
+    <card>
+      <name>Pauls Finest Act</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Paul’s Finest Act enters the battlefield, search your library for a legendary red card, reveal it, put it into your hand, then shuffle.
+Creatures you control get +1/+0 as long as you’ve cast a noncreature spell this turn.</text>
+    </card>
+    <card>
+      <name>Jerrolds Wretched Cure</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Jerrold’s Wretched Cure enters the battlefield, search your library for a legendary green card, reveal it, put it into your hand, then shuffle.
+At the beginning of your upkeep, up to one target nonland permanent you control become an X/X Construct creature until end of turn, where X is the number of card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Defeat of the Greatest Evil</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>The Highest Stakes</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent may have The Highest Stakes deal 4 damage to them. If that player doesn’t, you draw two cards.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Collect the Actors</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 colorless Construct Actor creature token for each creature you control.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Dream Monologue</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6UU</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Take an extra turn after this one.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Sculpt the Scene</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you lose 1 life, then audition for black. (Create a 1/1 Construct Actor creature token, a Cleric Role giving 2/2 and lifelink, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)</text>
+    </card>
+    <card>
+      <name>Verdant Curtain Prodigy</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would create a Role token, you may first create a 1/1 colorless Construct Actor creature token.</text>
+    </card>
+    <card>
+      <name>Ivory Curtain Roleweaver</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WWW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a white spell, choose up to X, where X is the number of white mana symbols in that spell’s mana cost —
+• Return target creature card with mana value 1 or less from your graveyard to the battlefield.
+• Creatures target player controls get +1/+1 until end of turn.
+• Target player gains 2 life.
+• Tap target creature.</text>
+    </card>
+    <card>
+      <name>Curtain Call</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player who controls a creature with power 3 or less draws a card. Then destroy all creatures.</text>
+    </card>
+    <card>
+      <name>Castigated Sister</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horror Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature or enchantment enters the battlefield under your control, you gain 1 life.
+3WW, Pay 5 life: Castigated Sister becomes a 5/5 Angel Horror with flying. (This effect doesn’t end at end of turn.)</text>
+    </card>
+    <card>
+      <name>Monument to Quia</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw your second card or cast your second spell each turn, put a +1/+1 counter on Monument to Quia.
+{U}: Monument to Quia becomes a 0/0 Statue artifact creature with flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Fractured Prodigy</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell with mana value 4 or greater, sacrifice Fractured Prodigy. If you do, create two tokens that are copies of it.</text>
+    </card>
+    <card>
+      <name>Stage Magician</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a permanent you control leaves the battlefield, if it had counter on it, you may put those counters on Stage Magician.
+At the beginning of your end step, you may move any number of counters from Stage Magician onto target permanent you control.</text>
+    </card>
+    <card>
+      <name>Salomes Intervention</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent loses 3 life and you gain 3 life.
+Whenever you cast your second spell each turn, if Salome’s Intervention is in your graveyard and wasn’t put there this turn, return it into your hand.</text>
+    </card>
+    <card>
+      <name>Ruthless Director</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Construct Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell that’s red, green, white, or blue, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Follow the Crumbs</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may play a red card you own from outside the game until the end of your next turn. Add RR.</text>
+    </card>
+    <card>
+      <name>Crimson Curtain Favored</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Crimson Curtain Favored enters the battlefield, starting with you, each player may discard any number of cards. When each player is finished, choose one —
+• Crimson Curtain Favored deals damage to each player equal to the number of cards in their hand.
+• Each player draws a card for each card they discarded this way.</text>
+    </card>
+    <card>
+      <name>High Rollers Esteemed</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Prowess
+When High Rollers Esteemed enters the battlefield, you may choose new targets for target spell or ability unless its controller has High Rollers Esteemed deal 4 damage to them. </text>
+    </card>
+    <card>
+      <name>Eldon and Eleanor, Sleuths</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Construct Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more creatures you control deal combat damage to a player or planeswalker, create a Clue token.
+GU, Sacrifice a Clue: Put a +1/+1 counter on target creature. Proliferate.</text>
+    </card>
+    <card>
+      <name>Piecemeal Finale</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker. That permanent’s controller loses 3 life unless that player sacrifices a nonland permanent or discards a card.</text>
+    </card>
+    <card>
+      <name>Trauma Spike</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a nonland card name. Search target player’s graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles. For each card exiled from their hand this way, you discard a card.</text>
+    </card>
+    <card>
+      <name>Glimpse the Puppet Strings</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a planeswalker card, reveal it, put it into your hand, then shuffle. If that card had a mana value 4 or less, you may activate one of that planeswalker’s loyalty abilities as though it were on the battlefield with two loyalty counters on it. </text>
+    </card>
+    <card>
+      <name>Paul, Making Greatness</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+The first instant or sorcery spell you cast from your hand during your turn has compose. (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Lifes Bride</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You can’t cast this spell unless you have 5 or more life than your starting life total
+Ward—Pay 5 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 5 life.)
+3WB, Discard Life’s Bride: Exile target nonland permanent. You gain life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Deaths Widow</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You can’t cast this spell as long as your life total is higher than half your starting life total.
+Lifelink
+1BG, Discard Death’s Widow: Destroy target nonland permanent. You lose life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>All Part of the Show</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control gain vigilance until end of turn. After this main phase, there’s an additional combat phase followed by an additional main phase. 
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Jerrold, Master Experimenter</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Construct Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have “Whenever this creature attacks, put a +1/+1 counter on target creature with lesser power.”
+At the beginning of each end step, if there are five or more +1/+1 counters among creatures you control, destroy up to one target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Remnant of Past Realities</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Target player exiles a card from their graveyard.
+{2}, Sacrifice Remnant of Past Realities: Exile each opponent’s graveyard. Draw a card.</text>
+    </card>
+    <card>
+      <name>Your Story</name>
+      <set rarity="common">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I, II — “Theatre is the art form of the present: It exists only in the present, and then it’s gone.”
+III — You may cast a copy of the exiled card from exile without paying its mana cost.
+​</text>
+      <reverse-related>Collect the Actors</reverse-related>
+      <reverse-related> Holding Out for a Hero</reverse-related>
+      <reverse-related> Powerful Distraction</reverse-related>
+      <reverse-related> Dig for Evidence</reverse-related>
+      <reverse-related> Dream Monologue</reverse-related>
+      <reverse-related> From Curtains to Chills</reverse-related>
+      <reverse-related> Inspect the Plot</reverse-related>
+      <reverse-related> Uncover Secrets</reverse-related>
+      <reverse-related> Defeat of the Greatest Evil</reverse-related>
+      <reverse-related> Imposing Threat</reverse-related>
+      <reverse-related> Inciting Incident</reverse-related>
+      <reverse-related> Repurpose Debris</reverse-related>
+      <reverse-related> Silent Sleep</reverse-related>
+      <reverse-related> Go Out Guns Blazing</reverse-related>
+      <reverse-related> The Highest Stakes</reverse-related>
+      <reverse-related> Timeless Rehearsal</reverse-related>
+      <reverse-related> Apprehend the Nemesis</reverse-related>
+      <reverse-related> Steal the Show</reverse-related>
+      <reverse-related> Time Stands Still and Heroes Emerge</reverse-related>
+      <reverse-related> All Part of the Show</reverse-related>
+    </card>
+    <card>
+      <name>ACT Plains</name>
+      <set rarity="">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>ACT Island</name>
+      <set rarity="">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>ACT Swamp</name>
+      <set rarity="">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>ACT Mountain</name>
+      <set rarity="">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>ACT Forest</name>
+      <set rarity="">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>The Infinite Calls to Marva</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Flash
+Draw three cards.
+You may cast a spell with mana value equal to or less than the number of lore counters on The Infinite Calls to Marva from your hand without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Dance of Frost</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Whenever you cast an enchantment spell, draw a card.
+Tap up to one target nonland permanent and put a stun counter on it. You gain 2 life.
+Target creature you control gets +1/+1 until end of turn for each enchantment you control.</text>
+    </card>
+    <card>
+      <name>Angelic Diva</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+If an ability of an enchantment you control triggers, you may have that ability trigger an additional time.</text>
+    </card>
+    <card>
+      <name>Reborn Through the Eternities</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature with mana value 3 or less enters the battlefield under your control, exile it. If you do, create that’s a token that’s a copy of it, except it’s a Construct creature instead of other types.</text>
+    </card>
+    <card>
+      <name>Lethal Storyboarding</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Lethal Storyboarding enters the battlefield, create two 1/1 colorless Construct Actor creature tokens.
+Whenever a creature you control deals combat damage to a player or planeswalker, sacrifice it and choose one —
+• Return a creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+• Draw a card.</text>
+    </card>
+    <card>
+      <name>Denouement</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Denouement deals damage to each creature and each planeswalker equal to the number of enchantments you control.</text>
+    </card>
+    <card>
+      <name>Sower of Seeds</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Construct Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: For each color among enchantments you control, add one mana of that color.
+2GG, Sacrifice Sower of Seeds: Shuffle X enchantment cards from your graveyard into your library. Create an X/X black Horror creature token, where X is the number of enchantment cards shuffled into your library this way.</text>
+    </card>
+    <card>
+      <name>Stolen Light</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Stolen Light enters the battlefield, exile target nonland permanent an opponent controls until Stolen Light leaves the battlefield.
+WUBRG: Put a permanent card exiled with Stolen Light onto the battlefield under your control. It’s a 3/3 Horror creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Pursue Perfect Realities</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, you get a perfection counter, then create a token that’s a copy of target creature you control. Then exile that token unless you have six or more perfection counters.</text>
+    </card>
+    <card>
+      <name>Monster Behind the Curtain</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spider Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+At the beginning of your end step, if you’ve gained 3 or more life this turn, create a 3/3 black Demon Horror creature token and each player loses 3 life.</text>
+    </card>
+    <card>
+      <name>Enter Captain Minnow</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once each turn, whenever you cast a spell, you may note one of its card types. When you note a new type this way, create a number of tapped Treasure tokens equal to the number of types noted for Enter Captain Minnow.</text>
+    </card>
+    <card>
+      <name>Verdant Curtain Caretaker</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Verdant Curtain Caretaker enters the battlefield or attacks, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Tyrant of the Depths</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Construct Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tyrant of the Depths has hexproof as long as it’s untapped.
+Whenever you cycle Tyrant of the Depths or it attacks, tap target nonland permanent you don’t control and put a stun counter on it.
+Basic landcycling 1U (1U, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>A Most Important Prince</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Construct Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you cycle A Most Important Prince or it attacks, each opponent with two or more cards in hand discards a card.
+Basic landcycling 1B (1B, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Xiyue Dragondancer</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{R}: Xiyue Dragondancer gets +1/+0 until end of turn.
+Whenever you cycle Xiyue Dragondancer or it attacks, create a Treasure token.
+Basic landcycling 1R (1R, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Long-Term Method Actor</name>
+      <set rarity="rare">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Construct Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever you cycle Long-Term Method Actor or it attacks, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)
+Basic landcycling 1G (1G, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Glory of the Star</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return it to the battlefield under its owner’s control.
+Compose  (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Study the Maps</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top four cards of your library. You may put one into your hand and the rest into your graveyard.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Looming Threat</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player sacrifices a creature. You gain life equal to that creature’s toughness.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Rendezvous Behind the Curtain</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It loses any Roles you don’t control.)
+Compose  (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Call the Backup Actors</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 colorless Construct Actor creature token. If you control another Construct, put a +1/+1 counter on it.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
+    </card>
+    <card>
+      <name>Splended Scenery</name>
+      <set rarity="uncommon">ACT</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Splended Scenery enters the battlefield tapped unless you control a basic land.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Salome</name>
+      <set rarity="mythic">ACT</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UUBB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Planeswalker - Salome </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast your second spell each turn, you may activate one of Salome’s loyalty abilities.
+[+1]: Draw two cards. Untap up to two lands.
+[-2]: Exile target creature or enchantment card from your graveyard. Until the end of your next turn, you may cast that card and you may cast that spell as though it had flash.
+[-4]: Destroy all creatures.
+</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Wizard Role</name>
+      <set>ACT</set>
+      <prop>
+        <colors>UR</colors>
+        <type>Token Enchantment - Aura Role </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(A creature can only have one role attached to it.)
+Enchant creature you control
+Enchanted creature is a Wizard creature with base power and toughness 2/2 and has prowess.</text>
+      <token>1</token>
+      <reverse-related>Cerulean Curtain Treasurer</reverse-related>
+      <reverse-related>Crafty Escape</reverse-related>
+      <reverse-related>Melodrama in a Bottle</reverse-related>
+      <reverse-related>Newswright</reverse-related>
+      <reverse-related>Push to the Background</reverse-related>
+      <reverse-related>A Tale of the Boastful Sailor</reverse-related>
+      <reverse-related>Tuesdays First Victim</reverse-related>
+      <reverse-related>Backdrop Artisan</reverse-related>
+      <reverse-related>Festival Sabotage</reverse-related>
+      <reverse-related>An Invitation to High Rollers</reverse-related>
+      <reverse-related>Opera in a Bottle</reverse-related>
+      <reverse-related>Shining Showstopper</reverse-related>
+      <reverse-related>Swiftwheel Slayers</reverse-related>
+      <reverse-related>Verdant Curtain Prodigy</reverse-related>
+    </card>
+    <card>
+      <name>Cleric Role</name>
+      <set>ACT</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Token Enchantment - Aura Role </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(A creature can only have one role attached to it.)
+Enchant creature you control
+Enchanted creature is a Cleric creature with base power and toughness 2/2 and has lifelink.</text>
+      <token>1</token>
+      <reverse-related>Comedy in a Bottle</reverse-related>
+      <reverse-related> Daydream</reverse-related>
+      <reverse-related>A Delightful Afternoon</reverse-related>
+      <reverse-related>Leading Clergy</reverse-related>
+      <reverse-related>Runaway Princess</reverse-related>
+      <reverse-related>Second-Stage Actress</reverse-related>
+      <reverse-related>Seraph of the Stage</reverse-related>
+      <reverse-related>Bring the Spotlight</reverse-related>
+      <reverse-related>Conclude</reverse-related>
+      <reverse-related>Dastardly Duo</reverse-related>
+      <reverse-related>Sculpt the Scene</reverse-related>
+      <reverse-related>That Fateful Tuesday</reverse-related>
+      <reverse-related>Tragedy in a Bottle</reverse-related>
+      <reverse-related>Verdant Curtain Prodigy</reverse-related>
+    </card>
+    <card>
+      <name>Scout Role</name>
+      <set>ACT</set>
+      <prop>
+        <colors>WG</colors>
+        <type>Token Enchantment - Aura Role </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(A creature can only have one role attached to it.)
+Enchant creature you control
+Enchanted creature is a Scout creature with base power and toughness 2/3 and has vigilance.</text>
+      <token>1</token>
+      <reverse-related>Comedy in a Bottle</reverse-related>
+      <reverse-related>Daydream</reverse-related>
+      <reverse-related>A Delightful Afternoon</reverse-related>
+      <reverse-related>Leading Clergy</reverse-related>
+      <reverse-related>Runaway Princess</reverse-related>
+      <reverse-related>Second-Stage Actress</reverse-related>
+      <reverse-related>Seraph of the Stage</reverse-related>
+      <reverse-related>Ballet in a Bottle</reverse-related>
+      <reverse-related>The Investigation of Dr Vaughn</reverse-related>
+      <reverse-related>Jerrolds Descent</reverse-related>
+      <reverse-related>Prop Work</reverse-related>
+      <reverse-related>Strength of Character</reverse-related>
+      <reverse-related>Verdant Curtain Prodigy</reverse-related>
+      <reverse-related>Verdant Curtain Veteran</reverse-related>
+      <reverse-related>Flowering Gardens</reverse-related>
+    </card>
+    <card>
+      <name>Warlock Role</name>
+      <set>ACT</set>
+      <prop>
+        <colors>UB</colors>
+        <type>Token Enchantment - Aura Role </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(A creature can only have one role attached to it.)
+Enchant creature you control
+Enchanted creature is a Warlock creature with base power and toughness 2/1 and has flying.</text>
+      <token>1</token>
+      <reverse-related>Cerulean Curtain Treasurer</reverse-related>
+      <reverse-related>Crafty Escape</reverse-related>
+      <reverse-related>Melodrama in a Bottle</reverse-related>
+      <reverse-related>Newswright</reverse-related>
+      <reverse-related>Push to the Background</reverse-related>
+      <reverse-related>A Tale of the Boastful Sailor</reverse-related>
+      <reverse-related>Tuesdays First Victim</reverse-related>
+      <reverse-related>Bring the Spotlight</reverse-related>
+      <reverse-related>Conclude</reverse-related>
+      <reverse-related>Dastardly Duo</reverse-related>
+      <reverse-related>Sculpt the Scene</reverse-related>
+      <reverse-related>That Fateful Tuesday</reverse-related>
+      <reverse-related>Tragedy in a Bottle</reverse-related>
+      <reverse-related>Verdant Curtain Prodigy</reverse-related>
+    </card>
+    <card>
+      <name>Warrior Role</name>
+      <set>ACT</set>
+      <prop>
+        <colors>RG</colors>
+        <type>Token Enchantment - Aura Role </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(A creature can only have one role attached to it.)
+Enchant creature you control
+Enchanted creature is a Warrior creature with base power and toughness 3/2 and has trample.</text>
+      <token>1</token>
+      <reverse-related>Backdrop Artisan</reverse-related>
+      <reverse-related>Festival Sabotage</reverse-related>
+      <reverse-related>An Invitation to High Rollers</reverse-related>
+      <reverse-related>Opera in a Bottle</reverse-related>
+      <reverse-related>Shining Showstopper</reverse-related>
+      <reverse-related>Swiftwheel Slayers</reverse-related>
+      <reverse-related>Ballet in a Bottle</reverse-related>
+      <reverse-related>The Investigation of Dr Vaughn</reverse-related>
+      <reverse-related>Jerrolds Descent</reverse-related>
+      <reverse-related>Prop Work</reverse-related>
+      <reverse-related>Strength of Character</reverse-related>
+      <reverse-related>Verdant Curtain Prodigy</reverse-related>
+      <reverse-related>Verdant Curtain Veteran</reverse-related>
+      <reverse-related>Flowering Gardens</reverse-related>
+    </card>
+    <card>
+      <name>Construct Actor</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Construct Actor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Comedy in a Bottle</reverse-related>
+      <reverse-related count="2">Comedy in a Bottle</reverse-related>
+      <reverse-related count="3">Comedy in a Bottle</reverse-related>
+      <reverse-related count="4">Comedy in a Bottle</reverse-related>
+      <reverse-related>Daydream</reverse-related>
+      <reverse-related>A Delightful Afternoon</reverse-related>
+      <reverse-related>Expendable Victim</reverse-related>
+      <reverse-related count="3">Holding Out for a Hero</reverse-related>
+      <reverse-related>Hope Spot</reverse-related>
+      <reverse-related>Ivory Curtain Producer</reverse-related>
+      <reverse-related>Ivory Curtain Roleweaver</reverse-related>
+      <reverse-related>Leading Clergy</reverse-related>
+      <reverse-related>Radiant Lead</reverse-related>
+      <reverse-related>Runaway Princess</reverse-related>
+      <reverse-related>Second-Stage Actress</reverse-related>
+      <reverse-related>Seraph of the Stage</reverse-related>
+      <reverse-related>Cerulean Curtain Treasurer</reverse-related>
+      <reverse-related>Crafty Escape</reverse-related>
+      <reverse-related>Melodrama in a Bottle</reverse-related>
+      <reverse-related count="2">Melodrama in a Bottle</reverse-related>
+      <reverse-related count="3">Melodrama in a Bottle</reverse-related>
+      <reverse-related count="4">Melodrama in a Bottle</reverse-related>
+      <reverse-related>Newswright</reverse-related>
+      <reverse-related>Push to the Background</reverse-related>
+      <reverse-related>A Tale of the Boastful Sailor</reverse-related>
+      <reverse-related>Tuesdays First Victim</reverse-related>
+      <reverse-related>Bring the Spotlight</reverse-related>
+      <reverse-related>Conclude</reverse-related>
+      <reverse-related>Dastardly Duo</reverse-related>
+      <reverse-related>Sculpt the Scene</reverse-related>
+      <reverse-related>That Fateful Tuesday</reverse-related>
+      <reverse-related>Tragedy in a Bottle</reverse-related>
+      <reverse-related count="2">Tragedy in a Bottle </reverse-related>
+      <reverse-related count="3">Tragedy in a Bottle</reverse-related>
+      <reverse-related count="4">Tragedy in a Bottle</reverse-related>
+      <reverse-related>Backdrop Artisan</reverse-related>
+      <reverse-related>Festival Sabotage</reverse-related>
+      <reverse-related>An Invitation to High Rollers</reverse-related>
+      <reverse-related>Opera in a Bottle</reverse-related>
+      <reverse-related count="2">Opera in a Bottle</reverse-related>
+      <reverse-related count="3">Opera in a Bottle</reverse-related>
+      <reverse-related count="4">Opera in a Bottle</reverse-related>
+      <reverse-related>Shining Showstopper</reverse-related>
+      <reverse-related>Swiftwheel Slayers</reverse-related>
+      <reverse-related>Ballet in a Bottle</reverse-related>
+      <reverse-related count="2">Ballet in a Bottle</reverse-related>
+      <reverse-related count="3">Ballet in a Bottle</reverse-related>
+      <reverse-related count="4">Ballet in a Bottle</reverse-related>
+      <reverse-related>Crocheted Buddy</reverse-related>
+      <reverse-related>The Disappearance of Faye</reverse-related>
+      <reverse-related>The Investigation of Dr Vaughn</reverse-related>
+      <reverse-related>Jerrolds Descent</reverse-related>
+      <reverse-related count="2">Jerrold&apos;s Descent</reverse-related>
+      <reverse-related>Prop Work</reverse-related>
+      <reverse-related>Strength of Character</reverse-related>
+      <reverse-related>Verdant Curtain Prodigy</reverse-related>
+      <reverse-related>Verdant Curtain Veteran</reverse-related>
+      <reverse-related count="2">Wild Entourage</reverse-related>
+      <reverse-related count="3">Assemble the Heroes</reverse-related>
+      <reverse-related>Percy, Master of Puppets</reverse-related>
+      <reverse-related count="2">The Rejection of the Fair Prince</reverse-related>
+      <reverse-related count="2">Lapinized Caster</reverse-related>
+      <reverse-related count="3">Lethal Storyboarding</reverse-related>
+      <reverse-related count="2">Swan Dance</reverse-related>
+      <reverse-related>Performers of Purpose</reverse-related>
+      <reverse-related>Pensive Supporter</reverse-related>
+      <reverse-related count="4">Sophie&apos;s Final Wish</reverse-related>
+      <reverse-related>Flowering Gardens</reverse-related>
+    </card>
+    <card>
+      <name>ACT Roles</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>                      W Roles {W}
+Cleric — 2/2 with Lifelink
+Scout — 2/3 with Vigilance
+                     {U} Roles {U}
+Wizard — 2/2 with Prowess
+Warlock — 2/1 with Flying
+                      {B} Roles {B}
+Cleric — 2/2 with Lifelink
+Warlock — 2/1 with Flying
+                      {R} Roles {R} 
+Wizard — 2/2 with Prowess
+Warrior  — 3/1 with Trample
+                      {G} Roles {G}
+Scout — 2/2 with Vigilance
+Warrior — 3/2 with Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Demon Horror</name>
+      <set>ACT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Demon Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Closing-Act Abomination</reverse-related>
+      <reverse-related count="3">Perfect the Models</reverse-related>
+      <reverse-related>Mindscape Ripper</reverse-related>
+      <reverse-related>Stolen Light</reverse-related>
+    </card>
+    <card>
+      <name>Token Swamp</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}.</text>
+      <token>1</token>
+      <reverse-related>Make a Plan</reverse-related>
+    </card>
+    <card>
+      <name>ACT Treasure</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Fatal Method Acting</reverse-related>
+      <reverse-related>Arms Tinkerer</reverse-related>
+      <reverse-related>The Disappearance of Faye</reverse-related>
+      <reverse-related>Salvage the Stitchings</reverse-related>
+      <reverse-related>Lapinized Caster</reverse-related>
+      <reverse-related>Main Role Maiden</reverse-related>
+      <reverse-related>Pernicious Plagiarist</reverse-related>
+      <reverse-related>The Last Stand</reverse-related>
+      <reverse-related> Xiyue Dragondancer</reverse-related>
+      <reverse-related> Tales from the Fallen Court</reverse-related>
+    </card>
+    <card>
+      <name>ACT Weapon</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment Weapon </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+      <token>1</token>
+      <reverse-related>The Disappearance of Faye</reverse-related>
+    </card>
+    <card>
+      <name>ACT Clue</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>The Disappearance of Faye</reverse-related>
+      <reverse-related>Eldon and Eleanor, Sleuths</reverse-related>
+    </card>
+    <card>
+      <name>Horror Knight</name>
+      <set>ACT</set>
+      <prop>
+        <colors>WBG</colors>
+        <type>Token Creature - Horror Knight </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature is dealt damage, you lose that much life.</text>
+      <token>1</token>
+      <reverse-related>A Princess Plea</reverse-related>
+    </card>
+    <card>
+      <name>Horror</name>
+      <set>ACT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Sower of Seeds</reverse-related>
+      <reverse-related> The Malevolence Chronicles</reverse-related>
+    </card>
+    <card>
+      <name>Token Mountain</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}.</text>
+      <token>1</token>
+      <reverse-related>Make a Plan</reverse-related>
+    </card>
+    <card>
+      <name>Token Plains</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}.</text>
+      <token>1</token>
+      <reverse-related>Make a Plan</reverse-related>
+    </card>
+    <card>
+      <name>Token Forest</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G}.</text>
+      <token>1</token>
+      <reverse-related>Make a Plan</reverse-related>
+    </card>
+    <card>
+      <name>Token Island</name>
+      <set>ACT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}.</text>
+      <token>1</token>
+      <reverse-related>Make a Plan</reverse-related>
+    </card>
+    <card>
+      <name>Lead Role</name>
+      <set>ACT</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <type>Token Enchantment - Aura Role </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(A creature can only have one role attached to it.)
+Enchant creature you control
+Enchanted creature is a 5/5 creature with all creature types and flying, trample, lifelink, prowess, and vigilance.</text>
+      <token>1</token>
+      <reverse-related>Jeffery Stage Manager</reverse-related>
+    </card>
+    <card>
+      <name>ACT Horror</name>
+      <set>ACT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>ACT Soldier</name>
+      <set>ACT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature gets +1/+1 for each enchantment you control.</text>
+      <token>1</token>
+      <reverse-related>Waltz on a Nimbus</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,2860 @@
+[CustomCards]
+	[    {
+	        "name": "Seraph of the Stage",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Construct Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Seraph of the Stage.png"
+	        }
+	    },
+	    {
+	        "name": "Grand Historian",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Construct Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Grand Historian.png"
+	        }
+	    },
+	    {
+	        "name": "Mourning Lady Faye",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Mourning Lady Faye.png"
+	        }
+	    },
+	    {
+	        "name": "Grasp of the Stageless",
+	        "rarity": "rare",
+	        "mana_cost": "{10}{G}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Grasp of the Stageless.png"
+	        }
+	    },
+	    {
+	        "name": "Prop Custodian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Prop Custodian.png"
+	        }
+	    },
+	    {
+	        "name": "Off-Set Rumormonger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Construct Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Off-Set Rumormonger.png"
+	        }
+	    },
+	    {
+	        "name": "Steal the Show",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Steal the Show.png"
+	        }
+	    },
+	    {
+	        "name": "Skyward Dreamers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Skyward Dreamers.png"
+	        }
+	    },
+	    {
+	        "name": "Encouraging Bulwark",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Construct Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Encouraging Bulwark.png"
+	        }
+	    },
+	    {
+	        "name": "Wayward Bloodseeker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Vampire Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Wayward Bloodseeker.png"
+	        }
+	    },
+	    {
+	        "name": "Xiyue Firelighters",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Xiyue Firelighters.png"
+	        }
+	    },
+	    {
+	        "name": "Minnows Accomplice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Construct Pirate ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Minnows Accomplice.png"
+	        }
+	    },
+	    {
+	        "name": "Timeless Rehearsal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Timeless Rehearsal.png"
+	        }
+	    },
+	    {
+	        "name": "Strikebreaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Strikebreaker.png"
+	        }
+	    },
+	    {
+	        "name": "Dreadful Gorgon",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Gorgon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dreadful Gorgon.png"
+	        }
+	    },
+	    {
+	        "name": "Verdant Curtain Mascot",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Construct Boar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Verdant Curtain Mascot.png"
+	        }
+	    },
+	    {
+	        "name": "Banished Prophet",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Banished Prophet.png"
+	        }
+	    },
+	    {
+	        "name": "Unraveller of Mysteries",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Construct Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Unraveller of Mysteries.png"
+	        }
+	    },
+	    {
+	        "name": "Dramatic Understudy",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dramatic Understudy.png"
+	        }
+	    },
+	    {
+	        "name": "Prop Work",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Prop Work.png"
+	        }
+	    },
+	    {
+	        "name": "Jerrolds Descent",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Jerrolds Descent.png"
+	        }
+	    },
+	    {
+	        "name": "Tailor of Terror",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Spider Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Tailor of Terror.png"
+	        }
+	    },
+	    {
+	        "name": "Ivory Curtain Producer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Construct Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Ivory Curtain Producer.png"
+	        }
+	    },
+	    {
+	        "name": "Lovely Duet",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lovely Duet.png"
+	        }
+	    },
+	    {
+	        "name": "In the Nick of Time",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/In the Nick of Time.png"
+	        }
+	    },
+	    {
+	        "name": "Apprehensive Slinger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Construct Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Apprehensive Slinger.png"
+	        }
+	    },
+	    {
+	        "name": "Cordial Ticketmaster",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Construct Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Cordial Ticketmaster.png"
+	        }
+	    },
+	    {
+	        "name": "Valiant Instructor",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Construct Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Valiant Instructor.png"
+	        }
+	    },
+	    {
+	        "name": "Astute Sceneweaver",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Construct Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Astute Sceneweaver.png"
+	        }
+	    },
+	    {
+	        "name": "Lead Athlete",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Construct Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lead Athlete.png"
+	        }
+	    },
+	    {
+	        "name": "The Monsters Attack",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Monsters Attack.png"
+	        }
+	    },
+	    {
+	        "name": "Verdant Curtain Naturalist",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Construct Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Verdant Curtain Naturalist.png"
+	        }
+	    },
+	    {
+	        "name": "Crocheted Buddy",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Construct Turtle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Crocheted Buddy.png"
+	        }
+	    },
+	    {
+	        "name": "Shattered Reflection",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Shattered Reflection.png"
+	        }
+	    },
+	    {
+	        "name": "Bedrock of Tales",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Bedrock of Tales.png"
+	        }
+	    },
+	    {
+	        "name": "Castigate",
+	        "rarity": "common",
+	        "mana_cost": "{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Castigate.png"
+	        }
+	    },
+	    {
+	        "name": "Salvage the Stitchings",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Salvage the Stitchings.png"
+	        }
+	    },
+	    {
+	        "name": "On the Case",
+	        "rarity": "common",
+	        "mana_cost": "{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/On the Case.png"
+	        }
+	    },
+	    {
+	        "name": "Exuberant Snowmage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W/U}",
+	        "type": "Creature — Construct Wizard Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Exuberant Snowmage.png"
+	        }
+	    },
+	    {
+	        "name": "Brooding Replacement",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U/B}",
+	        "type": "Creature — Construct Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Brooding Replacement.png"
+	        }
+	    },
+	    {
+	        "name": "Scathing Critics",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B/R}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Scathing Critics.png"
+	        }
+	    },
+	    {
+	        "name": "Crescent Crasher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R/G}",
+	        "type": "Creature — Construct Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Crescent Crasher.png"
+	        }
+	    },
+	    {
+	        "name": "Overconfident Batter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G/W}",
+	        "type": "Creature — Construct Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Overconfident Batter.png"
+	        }
+	    },
+	    {
+	        "name": "Backstage Broken",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W/B}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Backstage Broken.png"
+	        }
+	    },
+	    {
+	        "name": "Thespians Page",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U/R}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Thespians Page.png"
+	        }
+	    },
+	    {
+	        "name": "Young Soulspeaker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/G}",
+	        "type": "Creature — Construct Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Young Soulspeaker.png"
+	        }
+	    },
+	    {
+	        "name": "Performers of Purpose",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R/W}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Performers of Purpose.png"
+	        }
+	    },
+	    {
+	        "name": "Marionette Phantom",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G/U}",
+	        "type": "Creature — Spirit Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Marionette Phantom.png"
+	        }
+	    },
+	    {
+	        "name": "Bigroot Valley",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Bigroot Valley.png"
+	        }
+	    },
+	    {
+	        "name": "Erupting Territory",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Erupting Territory.png"
+	        }
+	    },
+	    {
+	        "name": "Gloomtide Gulf",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Gloomtide Gulf.png"
+	        }
+	    },
+	    {
+	        "name": "Sculpted Observatory",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Sculpted Observatory.png"
+	        }
+	    },
+	    {
+	        "name": "Peaceful Passage",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Peaceful Passage.png"
+	        }
+	    },
+	    {
+	        "name": "Caustic Mangrove",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Caustic Mangrove.png"
+	        }
+	    },
+	    {
+	        "name": "Hazy Summits",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Hazy Summits.png"
+	        }
+	    },
+	    {
+	        "name": "Somber Meadow",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Somber Meadow.png"
+	        }
+	    },
+	    {
+	        "name": "Twisting Fissure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Twisting Fissure.png"
+	        }
+	    },
+	    {
+	        "name": "Lush Coast",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lush Coast.png"
+	        }
+	    },
+	    {
+	        "name": "Frostpoint Caldera",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Frostpoint Caldera.png"
+	        }
+	    },
+	    {
+	        "name": "Boneyard Pass",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Boneyard Pass.png"
+	        }
+	    },
+	    {
+	        "name": "Autumnal Boscage",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Autumnal Boscage.png"
+	        }
+	    },
+	    {
+	        "name": "Thawing Valley",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Thawing Valley.png"
+	        }
+	    },
+	    {
+	        "name": "Molten Mire",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Molten Mire.png"
+	        }
+	    },
+	    {
+	        "name": "Waterfront Market",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Waterfront Market.png"
+	        }
+	    },
+	    {
+	        "name": "Spinerock Canyon",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Spinerock Canyon.png"
+	        }
+	    },
+	    {
+	        "name": "Whispering Canal",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Whispering Canal.png"
+	        }
+	    },
+	    {
+	        "name": "Basin Fortress",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Basin Fortress.png"
+	        }
+	    },
+	    {
+	        "name": "The Malevolence Chronicles",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Malevolence Chronicles.png"
+	        }
+	    },
+	    {
+	        "name": "Into Autumns Arms",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Into Autumns Arms.png"
+	        }
+	    },
+	    {
+	        "name": "Traveling Ticketmaster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — Construct Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Traveling Ticketmaster.png"
+	        }
+	    },
+	    {
+	        "name": "Closing-Act Abomination",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Closing-Act Abomination.png"
+	        }
+	    },
+	    {
+	        "name": "Rambunctious Afterparty",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Rambunctious Afterparty.png"
+	        }
+	    },
+	    {
+	        "name": "Hollow Queen",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Horror Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Hollow Queen.png"
+	        }
+	    },
+	    {
+	        "name": "Waltz on a Nimbus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Waltz on a Nimbus.png"
+	        }
+	    },
+	    {
+	        "name": "Strawhood Harvested",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Scarecrow Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Strawhood Harvested.png"
+	        }
+	    },
+	    {
+	        "name": "A Memorial to Radiance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Memorial to Radiance.png"
+	        }
+	    },
+	    {
+	        "name": "An Accursed Coronation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/An Accursed Coronation.png"
+	        }
+	    },
+	    {
+	        "name": "The Playwrights Gambit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Playwrights Gambit.png"
+	        }
+	    },
+	    {
+	        "name": "Tales from the Fallen Court",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Tales from the Fallen Court.png"
+	        }
+	    },
+	    {
+	        "name": "The Rejection of the Fair Prince",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Rejection of the Fair Prince.png"
+	        }
+	    },
+	    {
+	        "name": "The Tragedy of Fruits and Fanfare",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Tragedy of Fruits and Fanfare.png"
+	        }
+	    },
+	    {
+	        "name": "Price of Performance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Price of Performance.png"
+	        }
+	    },
+	    {
+	        "name": "Abominable Auteur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}{B}",
+	        "type": "Creature — Skeleton Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Abominable Auteur.png"
+	        }
+	    },
+	    {
+	        "name": "Leads Dont Die",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Leads Dont Die.png"
+	        }
+	    },
+	    {
+	        "name": "Perfect the Models",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Perfect the Models.png"
+	        }
+	    },
+	    {
+	        "name": "Main Role Maiden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}{R}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Main Role Maiden.png"
+	        }
+	    },
+	    {
+	        "name": "Lapinized Caster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}{R}",
+	        "type": "Creature — Rabbit Horror Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lapinized Caster.png"
+	        }
+	    },
+	    {
+	        "name": "Dulled Ghost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}{B}",
+	        "type": "Creature — Spirit Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dulled Ghost.png"
+	        }
+	    },
+	    {
+	        "name": "Percys Proclaimer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}{W}",
+	        "type": "Creature — Horror Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Percys Proclaimer.png"
+	        }
+	    },
+	    {
+	        "name": "Mindscape Ripper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}{U}",
+	        "type": "Creature — Horror Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Mindscape Ripper.png"
+	        }
+	    },
+	    {
+	        "name": "Brutal Director",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{R}{W}",
+	        "type": "Creature — Horror Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Brutal Director.png"
+	        }
+	    },
+	    {
+	        "name": "Ivory Curtain Litigator",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Construct Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Ivory Curtain Litigator.png"
+	        }
+	    },
+	    {
+	        "name": "Swan Dance",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Swan Dance.png"
+	        }
+	    },
+	    {
+	        "name": "A Princess Plea",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Princess Plea.png"
+	        }
+	    },
+	    {
+	        "name": "A Bond that Spans Planes",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Bond that Spans Planes.png"
+	        }
+	    },
+	    {
+	        "name": "A Recipe for Disaster",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Recipe for Disaster.png"
+	        }
+	    },
+	    {
+	        "name": "Around the Plane in Three Days",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{R}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Around the Plane in Three Days.png"
+	        }
+	    },
+	    {
+	        "name": "Over the Moon",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Over the Moon.png"
+	        }
+	    },
+	    {
+	        "name": "Magellas First Step",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Magellas First Step.png"
+	        }
+	    },
+	    {
+	        "name": "A Song of Sleet and Hellfire",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Song of Sleet and Hellfire.png"
+	        }
+	    },
+	    {
+	        "name": "Scaled Outburst",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Scaled Outburst.png"
+	        }
+	    },
+	    {
+	        "name": "Arrive, Surrounded by Petals",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Arrive, Surrounded by Petals.png"
+	        }
+	    },
+	    {
+	        "name": "Leading Clergy",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Construct Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Leading Clergy.png"
+	        }
+	    },
+	    {
+	        "name": "Backstage Prompter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Backstage Prompter.png"
+	        }
+	    },
+	    {
+	        "name": "The Unhinging Project",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Unhinging Project.png"
+	        }
+	    },
+	    {
+	        "name": "ACT Evolving Wilds",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/ACT Evolving Wilds.png"
+	        }
+	    },
+	    {
+	        "name": "Prophetic Prism",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Prophetic Prism.png"
+	        }
+	    },
+	    {
+	        "name": "Collapsing Frame",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Clue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Collapsing Frame.png"
+	        }
+	    },
+	    {
+	        "name": "The Grand Plot",
+	        "rarity": "mythic",
+	        "mana_cost": "{X}{2}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Grand Plot.png"
+	        }
+	    },
+	    {
+	        "name": "Recoil in Fear",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Recoil in Fear.png"
+	        }
+	    },
+	    {
+	        "name": "Retire",
+	        "rarity": "common",
+	        "mana_cost": "{B}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Retire.png"
+	        }
+	    },
+	    {
+	        "name": "Rip Apart",
+	        "rarity": "common",
+	        "mana_cost": "{R}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Rip Apart.png"
+	        }
+	    },
+	    {
+	        "name": "Assemble the Heroes",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Assemble the Heroes.png"
+	        }
+	    },
+	    {
+	        "name": "Take Back the Stage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Take Back the Stage.png"
+	        }
+	    },
+	    {
+	        "name": "Opulent Reprise",
+	        "rarity": "common",
+	        "mana_cost": "{U}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Opulent Reprise.png"
+	        }
+	    },
+	    {
+	        "name": "Critical Acclaim",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Critical Acclaim.png"
+	        }
+	    },
+	    {
+	        "name": "Percy, Master of Puppets",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Planeswalker — Perceval ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Percy, Master of Puppets.png"
+	        }
+	    },
+	    {
+	        "name": "Paul, Rock Bottom",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}{R}",
+	        "type": "Legendary Planeswalker — Paul ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Paul, Rock Bottom.png"
+	        }
+	    },
+	    {
+	        "name": "Cacophonous Demon",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{B}{G}",
+	        "type": "Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Cacophonous Demon.png"
+	        }
+	    },
+	    {
+	        "name": "Host of the Celebration",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}{R}{W}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Host of the Celebration.png"
+	        }
+	    },
+	    {
+	        "name": "Jerrold, Fugitive",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{R}{G}",
+	        "type": "Legendary Creature — Construct Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Jerrold, Fugitive.png"
+	        }
+	    },
+	    {
+	        "name": "Marva of Endless Inspiration",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{U}{R}",
+	        "type": "Legendary Creature — Construct God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Marva of Endless Inspiration.png"
+	        }
+	    },
+	    {
+	        "name": "Performer King",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}{G}{W}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Performer King.png"
+	        }
+	    },
+	    {
+	        "name": "Prop Recycling",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{G}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Prop Recycling.png"
+	        }
+	    },
+	    {
+	        "name": "Reflective Stalker",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Creature — Reflection Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Reflective Stalker.png"
+	        }
+	    },
+	    {
+	        "name": "Remake the Cast",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}{W}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Remake the Cast.png"
+	        }
+	    },
+	    {
+	        "name": "Soulwrought Songster",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{B}{R}",
+	        "type": "Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Soulwrought Songster.png"
+	        }
+	    },
+	    {
+	        "name": "Douglass, Star of the Show",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}{W}{U}",
+	        "type": "Legendary Creature — Construct Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Douglass, Star of the Show.png"
+	        }
+	    },
+	    {
+	        "name": "Jeffery, Stage Manager",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}{R}{G}",
+	        "type": "Legendary Creature — Construct Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Jeffery, Stage Manager.png"
+	        }
+	    },
+	    {
+	        "name": "Hope Spot",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Hope Spot.png"
+	        }
+	    },
+	    {
+	        "name": "Powerful Distraction",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Powerful Distraction.png"
+	        }
+	    },
+	    {
+	        "name": "Runaway Princess",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Runaway Princess.png"
+	        }
+	    },
+	    {
+	        "name": "Second-Stage Actress",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Construct Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Second-Stage Actress.png"
+	        }
+	    },
+	    {
+	        "name": "Conflict Capturer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Construct Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Conflict Capturer.png"
+	        }
+	    },
+	    {
+	        "name": "Engrossed in the Tale",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Engrossed in the Tale.png"
+	        }
+	    },
+	    {
+	        "name": "Expendable Victim",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Expendable Victim.png"
+	        }
+	    },
+	    {
+	        "name": "Mourners of Mervin",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Construct Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Mourners of Mervin.png"
+	        }
+	    },
+	    {
+	        "name": "Spoiled Prince",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Horror Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Spoiled Prince.png"
+	        }
+	    },
+	    {
+	        "name": "Unwrite",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Unwrite.png"
+	        }
+	    },
+	    {
+	        "name": "Revitalize",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Revitalize.png"
+	        }
+	    },
+	    {
+	        "name": "Percys Messenger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Percys Messenger.png"
+	        }
+	    },
+	    {
+	        "name": "Tuesdays First Victim",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Tuesdays First Victim.png"
+	        }
+	    },
+	    {
+	        "name": "Crafty Escape",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Crafty Escape.png"
+	        }
+	    },
+	    {
+	        "name": "Intellectual Critic",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Construct Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Intellectual Critic.png"
+	        }
+	    },
+	    {
+	        "name": "Newswright",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Newswright.png"
+	        }
+	    },
+	    {
+	        "name": "Inspect the Plot",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Inspect the Plot.png"
+	        }
+	    },
+	    {
+	        "name": "Tire Out",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Tire Out.png"
+	        }
+	    },
+	    {
+	        "name": "Cerulean Curtain Treasurer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Cerulean Curtain Treasurer.png"
+	        }
+	    },
+	    {
+	        "name": "Performer of Winds",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Performer of Winds.png"
+	        }
+	    },
+	    {
+	        "name": "From Curtains to Chills",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/From Curtains to Chills.png"
+	        }
+	    },
+	    {
+	        "name": "The Lead Falls Short",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Lead Falls Short.png"
+	        }
+	    },
+	    {
+	        "name": "Fade Out",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Fade Out.png"
+	        }
+	    },
+	    {
+	        "name": "Dealer of Pointed Fortunes",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dealer of Pointed Fortunes.png"
+	        }
+	    },
+	    {
+	        "name": "Uncover Malevolence",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Uncover Malevolence.png"
+	        }
+	    },
+	    {
+	        "name": "Conclude",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Conclude.png"
+	        }
+	    },
+	    {
+	        "name": "Dastardly Duo",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Construct Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dastardly Duo.png"
+	        }
+	    },
+	    {
+	        "name": "Inciting Incident",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Inciting Incident.png"
+	        }
+	    },
+	    {
+	        "name": "Silent Sleep",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Silent Sleep.png"
+	        }
+	    },
+	    {
+	        "name": "Imposing Threat",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Imposing Threat.png"
+	        }
+	    },
+	    {
+	        "name": "Seeker of Salome",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Construct Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Seeker of Salome.png"
+	        }
+	    },
+	    {
+	        "name": "Black Curtain Extra",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Black Curtain Extra.png"
+	        }
+	    },
+	    {
+	        "name": "Monstrous Revelation",
+	        "rarity": "common",
+	        "mana_cost": "{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Monstrous Revelation.png"
+	        }
+	    },
+	    {
+	        "name": "Hope Wrangler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Construct Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Hope Wrangler.png"
+	        }
+	    },
+	    {
+	        "name": "Lost in the Role",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lost in the Role.png"
+	        }
+	    },
+	    {
+	        "name": "Fatal Method Acting",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Fatal Method Acting.png"
+	        }
+	    },
+	    {
+	        "name": "Bring the Spotlight",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Bring the Spotlight.png"
+	        }
+	    },
+	    {
+	        "name": "Black Curtain Enforcer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Construct Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Black Curtain Enforcer.png"
+	        }
+	    },
+	    {
+	        "name": "Stitched-Smile Seamstress",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Construct Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Stitched-Smile Seamstress.png"
+	        }
+	    },
+	    {
+	        "name": "Festival Sabotage",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Festival Sabotage.png"
+	        }
+	    },
+	    {
+	        "name": "Backdrop Artisan",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Backdrop Artisan.png"
+	        }
+	    },
+	    {
+	        "name": "Swiftwheel Slayers",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Construct Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Swiftwheel Slayers.png"
+	        }
+	    },
+	    {
+	        "name": "Go Out Guns Blazing",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Go Out Guns Blazing.png"
+	        }
+	    },
+	    {
+	        "name": "Raging Restitched",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Raging Restitched.png"
+	        }
+	    },
+	    {
+	        "name": "Shining Showstopper",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Shining Showstopper.png"
+	        }
+	    },
+	    {
+	        "name": "Arms Tinkerer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Construct Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Arms Tinkerer.png"
+	        }
+	    },
+	    {
+	        "name": "Lantern-Bearer Belle",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lantern-Bearer Belle.png"
+	        }
+	    },
+	    {
+	        "name": "Mervins Armor",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Mervins Armor.png"
+	        }
+	    },
+	    {
+	        "name": "Strength of Character",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Strength of Character.png"
+	        }
+	    },
+	    {
+	        "name": "Make a Plan",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Make a Plan.png"
+	        }
+	    },
+	    {
+	        "name": "Time Stands Still, Heroes Emerge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Time Stands Still, Heroes Emerge.png"
+	        }
+	    },
+	    {
+	        "name": "Wild Entourage",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Wild Entourage.png"
+	        }
+	    },
+	    {
+	        "name": "Hedge Dashers",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Construct Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Hedge Dashers.png"
+	        }
+	    },
+	    {
+	        "name": "Look Beyond the Stage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Look Beyond the Stage.png"
+	        }
+	    },
+	    {
+	        "name": "Blooming Reclamation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Blooming Reclamation.png"
+	        }
+	    },
+	    {
+	        "name": "Wooded Ward",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Wooded Ward.png"
+	        }
+	    },
+	    {
+	        "name": "A Delightful Afternoon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Delightful Afternoon.png"
+	        }
+	    },
+	    {
+	        "name": "A Tale of the Boastful Sailor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Tale of the Boastful Sailor.png"
+	        }
+	    },
+	    {
+	        "name": "That Fateful Tuesday",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/That Fateful Tuesday.png"
+	        }
+	    },
+	    {
+	        "name": "An Invitation to High Rollers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/An Invitation to High Rollers.png"
+	        }
+	    },
+	    {
+	        "name": "The Investigation of Dr Vaughn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Investigation of Dr Vaughn.png"
+	        }
+	    },
+	    {
+	        "name": "The Death of King Mervin",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Death of King Mervin.png"
+	        }
+	    },
+	    {
+	        "name": "The Girl Who Wouldnt Die",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Girl Who Wouldnt Die.png"
+	        }
+	    },
+	    {
+	        "name": "As the Lanterns Float On",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/As the Lanterns Float On.png"
+	        }
+	    },
+	    {
+	        "name": "The Disappearance of Faye",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Disappearance of Faye.png"
+	        }
+	    },
+	    {
+	        "name": "Blood on Satin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Blood on Satin.png"
+	        }
+	    },
+	    {
+	        "name": "Push to the Background",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Push to the Background.png"
+	        }
+	    },
+	    {
+	        "name": "Once More with Heart",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Once More with Heart.png"
+	        }
+	    },
+	    {
+	        "name": "Sealed Evil in a Cage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Sealed Evil in a Cage.png"
+	        }
+	    },
+	    {
+	        "name": "Holding Out for a Hero",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Holding Out for a Hero.png"
+	        }
+	    },
+	    {
+	        "name": "Royal Doctor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Construct Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Royal Doctor.png"
+	        }
+	    },
+	    {
+	        "name": "Radiant Lead",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Construct Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Radiant Lead.png"
+	        }
+	    },
+	    {
+	        "name": "Silent Credits",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Silent Credits.png"
+	        }
+	    },
+	    {
+	        "name": "Paul, Startin Out Small",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Paul, Startin Out Small.png"
+	        }
+	    },
+	    {
+	        "name": "Distracted at Sea",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Distracted at Sea.png"
+	        }
+	    },
+	    {
+	        "name": "Dig for Evidence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dig for Evidence.png"
+	        }
+	    },
+	    {
+	        "name": "Crucify",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Crucify.png"
+	        }
+	    },
+	    {
+	        "name": "Repurpose Debris",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Repurpose Debris.png"
+	        }
+	    },
+	    {
+	        "name": "Salomes Messenger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Salomes Messenger.png"
+	        }
+	    },
+	    {
+	        "name": "Backstage Comic",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Construct Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Backstage Comic.png"
+	        }
+	    },
+	    {
+	        "name": "Detectives Gambit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Detectives Gambit.png"
+	        }
+	    },
+	    {
+	        "name": "Extolled Arachstruct",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Spider Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Extolled Arachstruct.png"
+	        }
+	    },
+	    {
+	        "name": "Audacious Spectator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Audacious Spectator.png"
+	        }
+	    },
+	    {
+	        "name": "High Rollers Croupier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Construct Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/High Rollers Croupier.png"
+	        }
+	    },
+	    {
+	        "name": "Second-Day Slayings",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Second-Day Slayings.png"
+	        }
+	    },
+	    {
+	        "name": "Scene to Cinders",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Scene to Cinders.png"
+	        }
+	    },
+	    {
+	        "name": "Apprehend the Nemesis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Apprehend the Nemesis.png"
+	        }
+	    },
+	    {
+	        "name": "Sower of Virulent Thoughts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Plant Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Sower of Virulent Thoughts.png"
+	        }
+	    },
+	    {
+	        "name": "Vaughns Vows",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Vaughns Vows.png"
+	        }
+	    },
+	    {
+	        "name": "Method Actor Retiree",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Construct Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Method Actor Retiree.png"
+	        }
+	    },
+	    {
+	        "name": "Enthusiastic Admirer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Construct Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Enthusiastic Admirer.png"
+	        }
+	    },
+	    {
+	        "name": "Ravenous Extra",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Ravenous Extra.png"
+	        }
+	    },
+	    {
+	        "name": "Prod the Stitchwork",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Prod the Stitchwork.png"
+	        }
+	    },
+	    {
+	        "name": "Directors Perks",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Directors Perks.png"
+	        }
+	    },
+	    {
+	        "name": "Zealous Persecution",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Zealous Persecution.png"
+	        }
+	    },
+	    {
+	        "name": "Theatric Tandem",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Theatric Tandem.png"
+	        }
+	    },
+	    {
+	        "name": "Percys Perfect World",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Percys Perfect World.png"
+	        }
+	    },
+	    {
+	        "name": "Jeffery Stages the Finale",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Jeffery Stages the Finale.png"
+	        }
+	    },
+	    {
+	        "name": "Salome Breaks the Lies",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Salome Breaks the Lies.png"
+	        }
+	    },
+	    {
+	        "name": "Pauls Finest Act",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Pauls Finest Act.png"
+	        }
+	    },
+	    {
+	        "name": "Jerrolds Wretched Cure",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Jerrolds Wretched Cure.png"
+	        }
+	    },
+	    {
+	        "name": "Defeat of the Greatest Evil",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Defeat of the Greatest Evil.png"
+	        }
+	    },
+	    {
+	        "name": "The Highest Stakes",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Highest Stakes.png"
+	        }
+	    },
+	    {
+	        "name": "Collect the Actors",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Collect the Actors.png"
+	        }
+	    },
+	    {
+	        "name": "Dream Monologue",
+	        "rarity": "rare",
+	        "mana_cost": "{6}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dream Monologue.png"
+	        }
+	    },
+	    {
+	        "name": "Sculpt the Scene",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Sculpt the Scene.png"
+	        }
+	    },
+	    {
+	        "name": "Verdant Curtain Prodigy",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Verdant Curtain Prodigy.png"
+	        }
+	    },
+	    {
+	        "name": "Ivory Curtain Roleweaver",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}{W}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Ivory Curtain Roleweaver.png"
+	        }
+	    },
+	    {
+	        "name": "Curtain Call",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Curtain Call.png"
+	        }
+	    },
+	    {
+	        "name": "Castigated Sister",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Horror Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Castigated Sister.png"
+	        }
+	    },
+	    {
+	        "name": "Monument to Quia",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Monument to Quia.png"
+	        }
+	    },
+	    {
+	        "name": "Fractured Prodigy",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Fractured Prodigy.png"
+	        }
+	    },
+	    {
+	        "name": "Stage Magician",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Stage Magician.png"
+	        }
+	    },
+	    {
+	        "name": "Salomes Intervention",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Salomes Intervention.png"
+	        }
+	    },
+	    {
+	        "name": "Ruthless Director",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Construct Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Ruthless Director.png"
+	        }
+	    },
+	    {
+	        "name": "Follow the Crumbs",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Follow the Crumbs.png"
+	        }
+	    },
+	    {
+	        "name": "Crimson Curtain Favored",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Construct Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Crimson Curtain Favored.png"
+	        }
+	    },
+	    {
+	        "name": "High Rollers Esteemed",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/High Rollers Esteemed.png"
+	        }
+	    },
+	    {
+	        "name": "Eldon and Eleanor, Sleuths",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}",
+	        "type": "Legendary Creature — Construct Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Eldon and Eleanor, Sleuths.png"
+	        }
+	    },
+	    {
+	        "name": "Piecemeal Finale",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Piecemeal Finale.png"
+	        }
+	    },
+	    {
+	        "name": "Trauma Spike",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Trauma Spike.png"
+	        }
+	    },
+	    {
+	        "name": "Glimpse the Puppet Strings",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Glimpse the Puppet Strings.png"
+	        }
+	    },
+	    {
+	        "name": "Paul, Making Greatness",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Legendary Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Paul, Making Greatness.png"
+	        }
+	    },
+	    {
+	        "name": "Lifes Bride",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lifes Bride.png"
+	        }
+	    },
+	    {
+	        "name": "Deaths Widow",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Deaths Widow.png"
+	        }
+	    },
+	    {
+	        "name": "All Part of the Show",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/All Part of the Show.png"
+	        }
+	    },
+	    {
+	        "name": "Jerrold, Master Experimenter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Legendary Creature — Construct Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Jerrold, Master Experimenter.png"
+	        }
+	    },
+	    {
+	        "name": "Remnant of Past Realities",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Clue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Remnant of Past Realities.png"
+	        }
+	    },
+	    {
+	        "name": "Your Story",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Your Story.png"
+	        }
+	    },
+	    {
+	        "name": "ACT Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/ACT Plains.png"
+	        }
+	    },
+	    {
+	        "name": "ACT Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/ACT Island.png"
+	        }
+	    },
+	    {
+	        "name": "ACT Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/ACT Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "ACT Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/ACT Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "ACT Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/ACT Forest.png"
+	        }
+	    },
+	    {
+	        "name": "The Infinite Calls to Marva",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/The Infinite Calls to Marva.png"
+	        }
+	    },
+	    {
+	        "name": "Dance of Frost",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Dance of Frost.png"
+	        }
+	    },
+	    {
+	        "name": "Angelic Diva",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Construct Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Angelic Diva.png"
+	        }
+	    },
+	    {
+	        "name": "Reborn Through the Eternities",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Reborn Through the Eternities.png"
+	        }
+	    },
+	    {
+	        "name": "Lethal Storyboarding",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Lethal Storyboarding.png"
+	        }
+	    },
+	    {
+	        "name": "Denouement",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Denouement.png"
+	        }
+	    },
+	    {
+	        "name": "Sower of Seeds",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Construct Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Sower of Seeds.png"
+	        }
+	    },
+	    {
+	        "name": "Stolen Light",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Stolen Light.png"
+	        }
+	    },
+	    {
+	        "name": "Pursue Perfect Realities",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Pursue Perfect Realities.png"
+	        }
+	    },
+	    {
+	        "name": "Monster Behind the Curtain",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Spider Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Monster Behind the Curtain.png"
+	        }
+	    },
+	    {
+	        "name": "Enter Captain Minnow",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Enter Captain Minnow.png"
+	        }
+	    },
+	    {
+	        "name": "Verdant Curtain Caretaker",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Construct Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Verdant Curtain Caretaker.png"
+	        }
+	    },
+	    {
+	        "name": "Tyrant of the Depths",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Construct Merfolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Tyrant of the Depths.png"
+	        }
+	    },
+	    {
+	        "name": "A Most Important Prince",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Construct Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/A Most Important Prince.png"
+	        }
+	    },
+	    {
+	        "name": "Xiyue Dragondancer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Construct Actor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Xiyue Dragondancer.png"
+	        }
+	    },
+	    {
+	        "name": "Long-Term Method Actor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Construct Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Long-Term Method Actor.png"
+	        }
+	    },
+	    {
+	        "name": "Glory of the Star",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Glory of the Star.png"
+	        }
+	    },
+	    {
+	        "name": "Study the Maps",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Study the Maps.png"
+	        }
+	    },
+	    {
+	        "name": "Looming Threat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Looming Threat.png"
+	        }
+	    },
+	    {
+	        "name": "Rendezvous Behind the Curtain",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Rendezvous Behind the Curtain.png"
+	        }
+	    },
+	    {
+	        "name": "Call the Backup Actors",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Call the Backup Actors.png"
+	        }
+	    },
+	    {
+	        "name": "Splended Scenery",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Splended Scenery.png"
+	        }
+	    },
+	    {
+	        "name": "Salome",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}{B}{B}",
+	        "type": "Legendary Planeswalker — Salome ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ACT/main/ACT-files/Salome.png"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		30 Seraph of the Stage
+		30 Grand Historian
+		30 Grasp of the Stageless
+		30 Steal the Show
+		30 Ivory Curtain Litigator
+		30 Swan Dance
+		30 A Princess Plea
+		30 A Bond that Spans Planes
+		30 A Recipe for Disaster
+		30 Around the Plane in Three Days
+		30 Over the Moon
+		30 Magellas First Step
+		30 A Song of Sleet and Hellfire
+		30 The Unhinging Project
+		30 The Death of King Mervin
+		30 The Girl Who Wouldnt Die
+		30 As the Lanterns Float On
+		30 The Disappearance of Faye
+		30 Percys Perfect World
+		30 Jeffery Stages the Finale
+		30 Salome Breaks the Lies
+		30 Pauls Finest Act
+		30 Jerrolds Wretched Cure
+		30 Defeat of the Greatest Evil
+		30 The Highest Stakes
+		30 Collect the Actors
+		30 Dream Monologue
+		30 Sculpt the Scene
+		30 Verdant Curtain Prodigy
+		30 Ivory Curtain Roleweaver
+		30 Curtain Call
+		30 Castigated Sister
+		30 Monument to Quia
+		30 Fractured Prodigy
+		30 Stage Magician
+		30 Salomes Intervention
+		30 Ruthless Director
+		30 Crimson Curtain Favored
+		30 High Rollers Esteemed
+		30 Eldon and Eleanor, Sleuths
+		30 Piecemeal Finale
+		30 Trauma Spike
+		30 Glimpse the Puppet Strings
+		30 Paul, Making Greatness
+		30 Lifes Bride
+		30 Deaths Widow
+		30 All Part of the Show
+		30 Jerrold, Master Experimenter
+		30 The Infinite Calls to Marva
+		30 Dance of Frost
+		30 Denouement
+		30 Stolen Light
+		30 Pursue Perfect Realities
+		30 Monster Behind the Curtain
+		30 Enter Captain Minnow
+		30 Verdant Curtain Caretaker
+		30 Tyrant of the Depths
+		30 A Most Important Prince
+		30 Xiyue Dragondancer
+		30 Long-Term Method Actor
+		1 The Grand Plot
+		1 Percy, Master of Puppets
+		1 Paul, Rock Bottom
+		1 Cacophonous Demon
+		1 Host of the Celebration
+		1 Jerrold, Fugitive
+		1 Marva of Endless Inspiration
+		1 Performer King
+		1 Prop Recycling
+		1 Reflective Stalker
+		1 Remake the Cast
+		1 Soulwrought Songster
+		1 Douglass, Star of the Show
+		1 Jeffery, Stage Manager
+		1 Follow the Crumbs
+		1 Angelic Diva
+		1 Reborn Through the Eternities
+		1 Lethal Storyboarding
+		1 Sower of Seeds
+		1 Salome
+	[UncommonSlot(3)]
+		50 Prop Custodian
+		50 Off-Set Rumormonger
+		50 Skyward Dreamers
+		50 Encouraging Bulwark
+		50 Wayward Bloodseeker
+		50 Xiyue Firelighters
+		50 Minnows Accomplice
+		50 Timeless Rehearsal
+		50 Strikebreaker
+		50 Frostpoint Caldera
+		50 Boneyard Pass
+		50 Autumnal Boscage
+		50 Thawing Valley
+		50 Molten Mire
+		50 Waterfront Market
+		50 Spinerock Canyon
+		50 Whispering Canal
+		50 Basin Fortress
+		50 The Malevolence Chronicles
+		50 Into Autumns Arms
+		50 Traveling Ticketmaster
+		50 Closing-Act Abomination
+		50 Rambunctious Afterparty
+		50 Hollow Queen
+		50 Waltz on a Nimbus
+		50 Strawhood Harvested
+		50 A Memorial to Radiance
+		50 An Accursed Coronation
+		50 The Playwrights Gambit
+		50 Tales from the Fallen Court
+		50 The Rejection of the Fair Prince
+		50 The Tragedy of Fruits and Fanfare
+		50 Price of Performance
+		50 Abominable Auteur
+		50 Leads Dont Die
+		50 Perfect the Models
+		50 Main Role Maiden
+		50 Lapinized Caster
+		50 Dulled Ghost
+		50 Percys Proclaimer
+		50 Mindscape Ripper
+		50 Brutal Director
+		50 Time Stands Still, Heroes Emerge
+		50 A Delightful Afternoon
+		50 A Tale of the Boastful Sailor
+		50 That Fateful Tuesday
+		50 An Invitation to High Rollers
+		50 The Investigation of Dr Vaughn
+		50 Blood on Satin
+		50 Push to the Background
+		50 Once More with Heart
+		50 Sealed Evil in a Cage
+		50 Holding Out for a Hero
+		50 Royal Doctor
+		50 Radiant Lead
+		50 Silent Credits
+		50 Paul, Startin Out Small
+		50 Distracted at Sea
+		50 Dig for Evidence
+		50 Crucify
+		50 Repurpose Debris
+		50 Salomes Messenger
+		50 Backstage Comic
+		50 Detectives Gambit
+		50 Extolled Arachstruct
+		50 Audacious Spectator
+		50 High Rollers Croupier
+		50 Second-Day Slayings
+		50 Scene to Cinders
+		50 Apprehend the Nemesis
+		50 Sower of Virulent Thoughts
+		50 Vaughns Vows
+		50 Method Actor Retiree
+		50 Enthusiastic Admirer
+		50 Ravenous Extra
+		50 Prod the Stitchwork
+		50 Directors Perks
+		50 Zealous Persecution
+		50 Theatric Tandem
+		50 Remnant of Past Realities
+		50 Glory of the Star
+		50 Study the Maps
+		50 Looming Threat
+		50 Rendezvous Behind the Curtain
+		50 Call the Backup Actors
+		50 Splended Scenery
+	[CommonSlot(10)]
+		50 Mourning Lady Faye
+		50 Dreadful Gorgon
+		50 Verdant Curtain Mascot
+		50 Banished Prophet
+		50 Unraveller of Mysteries
+		50 Dramatic Understudy
+		50 Prop Work
+		50 Jerrolds Descent
+		50 Tailor of Terror
+		50 Ivory Curtain Producer
+		50 Lovely Duet
+		50 In the Nick of Time
+		50 Apprehensive Slinger
+		50 Cordial Ticketmaster
+		50 Valiant Instructor
+		50 Astute Sceneweaver
+		50 Lead Athlete
+		50 The Monsters Attack
+		50 Verdant Curtain Naturalist
+		50 Crocheted Buddy
+		50 Shattered Reflection
+		50 Bedrock of Tales
+		50 Castigate
+		50 Salvage the Stitchings
+		50 On the Case
+		50 Exuberant Snowmage
+		50 Brooding Replacement
+		50 Scathing Critics
+		50 Crescent Crasher
+		50 Overconfident Batter
+		50 Backstage Broken
+		50 Thespians Page
+		50 Young Soulspeaker
+		50 Performers of Purpose
+		50 Marionette Phantom
+		50 Bigroot Valley
+		50 Erupting Territory
+		50 Gloomtide Gulf
+		50 Sculpted Observatory
+		50 Peaceful Passage
+		50 Caustic Mangrove
+		50 Hazy Summits
+		50 Somber Meadow
+		50 Twisting Fissure
+		50 Lush Coast
+		50 Scaled Outburst
+		50 Arrive, Surrounded by Petals
+		50 Leading Clergy
+		50 Backstage Prompter
+		50 ACT Evolving Wilds
+		50 Prophetic Prism
+		50 Collapsing Frame
+		50 Recoil in Fear
+		50 Retire
+		50 Rip Apart
+		50 Assemble the Heroes
+		50 Take Back the Stage
+		50 Opulent Reprise
+		50 Critical Acclaim
+		50 Hope Spot
+		50 Powerful Distraction
+		50 Runaway Princess
+		50 Second-Stage Actress
+		50 Conflict Capturer
+		50 Engrossed in the Tale
+		50 Expendable Victim
+		50 Mourners of Mervin
+		50 Spoiled Prince
+		50 Unwrite
+		50 Revitalize
+		50 Percys Messenger
+		50 Tuesdays First Victim
+		50 Crafty Escape
+		50 Intellectual Critic
+		50 Newswright
+		50 Inspect the Plot
+		50 Tire Out
+		50 Cerulean Curtain Treasurer
+		50 Performer of Winds
+		50 From Curtains to Chills
+		50 The Lead Falls Short
+		50 Fade Out
+		50 Dealer of Pointed Fortunes
+		50 Uncover Malevolence
+		50 Conclude
+		50 Dastardly Duo
+		50 Inciting Incident
+		50 Silent Sleep
+		50 Imposing Threat
+		50 Seeker of Salome
+		50 Black Curtain Extra
+		50 Monstrous Revelation
+		50 Hope Wrangler
+		50 Lost in the Role
+		50 Fatal Method Acting
+		50 Bring the Spotlight
+		50 Black Curtain Enforcer
+		50 Stitched-Smile Seamstress
+		50 Festival Sabotage
+		50 Backdrop Artisan
+		50 Swiftwheel Slayers
+		50 Go Out Guns Blazing
+		50 Raging Restitched
+		50 Shining Showstopper
+		50 Arms Tinkerer
+		50 Lantern-Bearer Belle
+		50 Mervins Armor
+		50 Strength of Character
+		50 Make a Plan
+		50 Wild Entourage
+		50 Hedge Dashers
+		50 Look Beyond the Stage
+		50 Blooming Reclamation
+		50 Wooded Ward
+	
